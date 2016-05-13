@@ -1,0 +1,519 @@
+4 3
+A B C
+D F G A
+L K I P
+Z Y W X L
+D C
+Z L
+Z A
+4 3
+humanoides humanos magratheanos
+humanos simios delfines perros
+vogones ratones betelgusianos
+betelgusianos dentrassis
+humanos delfines
+vogones dentrassis
+betelgusianos humanos
+26 9
+A U A J K W F
+B H O L T F Q Y I K J U C R N G X M B P D W E
+C J C W V S D M U A
+D C P J N X W
+E G T I D X M F V N H A S J W Q B
+F E Y V M X Q J O T B R A
+G A G D T F Q M P V H Z K R J W O I N U L S
+H V Y P N U X L
+I F Q N K O P I S H D Y W A C J Z G U M L T E
+J W E D T I C Z V S A K G M P L H F U Q B
+K
+L D H V
+M A G S K X M R T U H Q V N J W B P Y
+N E W G H M L O S N
+O Z T X Q M P A B I C U S V R W N H Y
+P Z E V A L P K Q N X C U H
+Q X W D
+R C E P B L H K O X U R S W D Y J T A G I
+S Q Y V U M L A E I K S G P T W Z H B F
+T V O R M J B
+U R C Z B O E N J Q W M D T S P I U H A Y F V L G X
+V R H L V F P B E A S G D Y
+W A Y G Z
+X V
+Y D W R J Z Q U C O
+Z W V X B S D H A
+S G
+O J
+D V
+J H
+W T
+J K
+J K
+P H
+J L
+25 2
+A W B T O E U F Y A D G K J H C L M S X I N
+B H P A W V
+C D P R B N S W O I M H A J
+D Q C
+E I V N K X Y
+F F M R H Y E V C A W X T D Q U P S
+G J Y A K S O E V F H B N R D L X C P T M
+H Q V R
+I G F Q D E T I V J K
+J H G T P L N K I D J O M B Q U Y W F
+K L K I C S
+L J G T D S U O Q B M Y R P E H W K N V X C L F
+M I L V Y M S B U G F T D Q A P X C N W
+N
+O N S F B M R X C T H Q V O J Y U L K
+P P B X A W M D V N Q S I U T K C O R J
+Q Y A T
+R C R D T I Y
+S E C
+T J D S M F C I A
+U V H T U D S X O A
+V U M D B E T L N P Q
+W R K J Q Y B I T E S W H P N U G A
+X O P T V F H A G S E W I X M Y J
+Y L G Q V S T P F H E O R K I Y U B C N
+M Y
+K L
+17 10
+A M I
+B O P B N H C F D
+C G J D F H N B A K L Q
+D O G D M F E J B H
+E I P H K A B D F C J M O L Q
+F J E M P G I O H D B
+G Q L N E J D M I O F G C P B K
+H D N I P K Q L H C
+I M J C O K L P B A H G D
+J G A N
+K H D P F G K B C M O L E J I A N
+L
+M H C L F O K J
+N C M A D L H P E F K B
+O M E C N O D L Q F A K
+P N B M G D A P E Q J O L C F
+Q
+A M
+G M
+R U
+H G
+N C
+J F
+V W
+I F
+N E
+F X
+21 2
+A R A S D N B U P L E Q
+B R D M K O I
+C P F K S E J A B
+D H D J U N P
+E C H
+F K G T B Q F D P M I A U R L E C J
+G B E T U P F S Q G A J N H I
+H E D Q R C J O
+I L A H K I B O S U E T Q N F P G
+J O L R S J D T P H C F E
+K Q R O K N E F I T H L P
+L S D R E T Q N I B O M F P L U J C
+M M N I O U T J F E Q S R K H C D B P L
+N A
+O G R A E O P
+P B N Q G K L S M T H A J O D R
+Q C J Q O F P S M T D A G R L K E U I H
+R D
+S
+T K N Q O H E B
+U J I L H K S Q T P D F M B U G N A C R O
+Q W
+I R
+6 7
+A F A D B E
+B E B A
+C D
+D
+E
+F C E B A F
+R X
+S Y
+D P
+X M
+C H
+A W
+P G
+15 8
+A J L G E H M
+B I L
+C
+D I K G B E L C N O
+E L G
+F J B L H D K
+G O A I E F D
+H G C D I L A N K O J B F M
+I N J A C O L G D E K B H M
+J C L M O J N A K H E B I D
+K F E A K O M J H B L D C I
+L L H J M I N G E F O B C A
+M L I J O C D N A M F
+N G H M B J L I
+O
+L H
+M C
+F P
+X M
+P B
+Z A
+E D
+T C
+20 1
+A
+B A D M K O P N S L F B
+C E S P T F K J Q L R M H N O I
+D D R N G T A E K J I B Q F
+E C S N L O F G K B E
+F H Q E M S K J C A P F R
+G I M J P D N F K H T S G C O A
+H P T O D B R G Q E
+I B L C Q R
+J Q M K A H N E F R D P L G T C J S I
+K R F E B C G Q A D L I
+L D N G L I S E T
+M K M A F P Q B O N T
+N J H I M O N K T P B F G Q C E R
+O B T A J N P D Q E S K
+P C M T L B D G K
+Q G Q P N O L S F I R E H J
+R B S T F H A N R D M L J P I O G Q E C
+S Q O K S D E J C P L
+T T B
+K L
+25 6
+A A O Q R H X Y M B K P E C L F W G J S U
+B I R P X J E A S W
+C G W Q I K M X F O J R E U D P V H N B L S
+D T E N A J M Q P U F C B R S I V X K G Y W L D O
+E A G U W K V B O S L M E F T X Y
+F W L
+G D W L J G P V Q O S F H
+H J N A L H
+I P H F L U S Q R
+J A I P J V Q W L H M N S K F D C R Y E B
+K A R X G M Q L V H S K F I O C B T E P U W
+L T P R Y A W D H
+M K V B N U T J G F Y Q W C R L S M H D A I P
+N B L I K J N V R C Y W E S A P M F Q X O U H D G
+O A R H S E N W O D Y Q T L B K F
+P J O T Y M S R L U P F
+Q J O W M D Y E R
+R H P D C I O W V
+S I M H
+T I J B U M P K
+U U G A L R C P X J N K S H V D B W T
+V V X F S P Q B A C D L U N W E I K G T H
+W U I X T Y J F B N H G E V L A K C S R M
+X M L I R J D K A F P
+Y S P M D O E V Q G
+B U
+W O
+T R
+N Z
+R L
+O Z
+7 2
+A D
+B F C G
+C F G A D B E
+D
+E C B F E
+F G C
+G
+T F
+Y Q
+19 3
+A E H D S F A R O Q
+B H P E R D C J Q G O I N K M F S B A
+C P C B J E K L N R Q
+D G N O A J H I L C P R D M F Q K S
+E E D I L
+F J P B F K
+G D Q J N L A B P I K M S G O E
+H Q P R O A E D K B M N F I L
+I O N P E I B S H J F G Q M L A K D C
+J K L C I G A S D M R F J Q P
+K E B M K
+L A J E Q
+M O Q K A S B D I M J F R G
+N S D P J E K M C N B L
+O S A G Q N C K D L F B O P H M E I J
+P E H L Q
+Q D O C G M F N J I
+R A Q P D L O S
+S C B E D R F
+M O
+V S
+J I
+7 8
+A E D A B
+B A E B G C
+C F D A C B E
+D C A
+E F
+F D F
+G E A D
+Z C
+G F
+Y Q
+Q B
+S G
+D V
+V H
+L G
+20 6
+A G E L O M A J
+B R T Q M A O J B L H E P
+C L N M A K O T G F B I E H
+D
+E Q H B E A R
+F H K E N Q B F L M
+G O Q F C E A M R D N G L S H K
+H
+I R Q I B C D M P G L A K E T
+J N S M Q C P D T
+K G P I H R Q L
+L F
+M I T O L G H J R D S Q F N B E
+N E G D S A H J B N I C
+O S P H F R D A O Q E T J K B I L G
+P L P C B K T R I E D A J S O F G Q M
+Q J B O A S F Q K H E D R N C L
+R S P L E H R D J I K G Q A T B C
+S S C R H Q T F E P G L K D O
+T I D T M G J E P R C H F N
+O A
+T Z
+W F
+D I
+D B
+L W
+11 10
+A K A B J H C I
+B E F H C D K I G
+C I B G K H E
+D C A
+E H C I J E A K D G
+F A H D I
+G D H E G
+H H K I C B F D
+I F
+J A
+K D H A
+A Y
+V B
+E Q
+T J
+Z K
+H U
+K C
+Y C
+N V
+F S
+22 8
+A H S I D G E T V J F P Q M R N O K B
+B R
+C T U N P E G F O R B D I A M K V S L Q J
+D E C H K I D A U F M B P J N R O Q G
+E B T A C F
+F T E U C V L M F R K O J
+G N M F
+H K M
+I S F D T A M L
+J D M U
+K L H F S M G C R D P O N U E B T
+L N B U R E V D J L F
+M M E O J Q V S C P D N I L G R H A B U T K
+N N B H V C P O Q S T L M A I E J D G U
+O U V
+P T C F N L
+Q A F I H P M U B R G O D E
+R D P I K L
+S V T I F G L A R U P C
+T V L D S A M
+U J P L D B A I M S Q C
+V O J H U K D R
+M G
+I W
+A K
+Z F
+F S
+L I
+X Z
+E C
+18 4
+A R A P D J Q B I O G F M L E H C K
+B D G H O C F K B R J E N L
+C F A P B K M G Q O L N
+D E K P
+E O C L Q N K G I H B D F M E J P A
+F N P I C M A D B L G Q R J
+G D R K L P E H B O C A Q F I N G M
+H K J F Q M N
+I R K M B L I J G C H F A O N E
+J R K C L E D Q P N H I F
+K M P K H I F R O B J L C N E Q A G
+L K E N P L A H D J C B O
+M P M N R L B Q C I E G H J O F A
+N B N J F H I L E K C G D M P Q O
+O F D G O C A L P E I Q R J M B K
+P J N D B E R C L
+Q P R H F O B I J C N D A K L E
+R G R N P A F H M O L I E B K J
+T C
+P A
+P S
+S Y
+15 9
+A L I H O M
+B F L O D C J H B K E A
+C A B
+D E J H N
+E D
+F K
+G F N I
+H E A C
+I C M H B
+J J H G M
+K D L I O K J N H M E A C G B
+L M K L H O E C N F A G
+M F G L M B D C J O I E A K N
+N O H F B M E L
+O K D N O F J G I A H M B
+B E
+E N
+N J
+P Y
+I G
+E G
+F T
+O R
+F Y
+17 2
+A B P F N E K I
+B C B O E F
+C Q E D L
+D G M Q E C D K O N F
+E K C M G J F L O E N
+F E Q J
+G B F C D L P N
+H J G O P M L
+I O F J E Q K M L H I A D N G P
+J F A H C K M E L
+K I E M F H A J Q C O
+L J N O P Q M E
+M O L D F K J E M H G B C I N A
+N G F O B C N L M D E Q P
+O P O D M N G J A L
+P D A B O
+Q F
+G W
+D B
+23 9
+A B R A G L M C O P H I N S F T K W J E Q U D
+B V E I S R N D H T J L
+C I R M H D C J W B E K N T U O F V A
+D D E L G I A S V N J
+E E C S Q M D I R O K W G U H B P T J
+F A P G S V M E O T H B J N C Q K W R L U
+G T
+H B C V E F
+I C E M W U K R G I N B H Q
+J
+K G I N B A T F V R L J S Q E
+L O V U W D C S Q I A P G B F T N R H L J
+M P C K V L D S E T B O Q W I F M H R U J A
+N M U F O Q S
+O S B M A Q O C N K P W I
+P H A I B C D T U G E O R V W Q M K N J
+Q I K O F V S M U C
+R W T P C
+S Q R E B O U A N H F
+T B E G U A I C H K W P O F Q L T J
+U G F M Q U S J R D N K W B O L C E H T P A
+V Q L U N J H A W I D O C F R E K
+W Q J S P I V M O E K T R L C U H F N A
+S B
+Y O
+H Q
+J H
+H I
+Y B
+A D
+T X
+O M
+23 8
+A V E H G T L S W B P I J K C
+B N K B R J O E P F S V M Q L U T A G I D H
+C K C A N J R
+D K Q V P E G O H D
+E K L R D C M T J F B E U Q G H P
+F P J F T
+G P M V R K D G O I B N F A H J L E W T U Q
+H P K G
+I H W
+J B
+K O G V E W N M D B F T U H P C Q A L
+L E Q T D K B
+M O B K L A N S I W U T
+N T P E U B O L C V N H I R F S D J W Q M
+O N H S A O G W C F V
+P E Q H K C I S B J V D L N G P M O F T A U W
+Q E A M Q H O D P K U N R G L F
+R A Q T D H
+S O D P V
+T O V P C F L E G B K H J M I D A Q T N
+U I K U T S F E J M N A
+V B P J F H A W T S
+W P G A C D S K W L T B F H V N Q M
+A C
+I W
+C P
+C H
+L J
+I T
+O P
+A G
+26 6
+A C M B V D G X T E Y U F P A K I Z O Q J S N L H W
+B U Q B K R P O J Y G I
+C S R J L U Q I O B A V C N
+D E H D O Y U G S B N Z A
+E Q T F D B M V O I K Z U
+F K
+G R A Q X N C J D
+H Y V B S H E O N T K M L D W X I R P C J A Q F U G
+I U V J
+J C R K F S E T P J
+K T J I
+L J W
+M D B Q Y W F E A P I J K M Z N U H C S X
+N H L R E N G X W A Y V F Q I D Z C J O T U M B S
+O Q K U F W N C H Y O
+P G Y R W T B P E I N V M K S O D Q H Z J L X F
+Q Z X F Q S H Y T V G M E A L I C D P
+R V N M B J T Q C G D U I L P S
+S D N M P
+T B G P O V A C K S R U Y Q M L
+U J R X K Q G O Y V D I
+V P E Z T Y B N C U X W M G I J K F S O D V L Q R
+W T M L U X W D
+X R I G F H Z D S P N O M V U B W L T A Y Q
+Y M A C N L J T W B R K
+Z R H C W J G Q P D O T N L Y U S Z M
+J C
+B I
+Q J
+K R
+V L
+W O

@@ -2,44 +2,20 @@
 #define endl '\n'
 
 using namespace std;
-
-int main(){
-    ios_base::sync_with_stdio(false);cin.tie(NULL);
-    string linea;
-    int idiz,idder,sumab1,sumab2,b1,b2;
-    bool caso1,caso2,caso3,caso4;
-    while(getline(cin,linea)){
-            caso1=caso2=caso3=caso4=false;
-            idiz=1;
-            idder=9;
-            sumab1=sumab2=0;
-        for(int i=0;i<11;++i){
-            if(linea[i]!='.'){
-                sumab1+=(idiz*(linea[i]-'0'));
-                sumab2+=(idder*(linea[i]-'0'));
-                idder--;
-                idiz++;
-            }
-        }
-        b1=linea[12]-'0';
-        b2=linea[13]-'0';
-        if((b1==sumab1%11) && (b2==sumab2%11)){
-            caso1=true;
-        }
-        if((b1==0 && sumab1%11==10) && (b2==0 && sumab2%11==10)){
-            caso2=true;
-        }
-        if((b1==0 && sumab1%11==10) && (b2==sumab2%11)){
-            caso3=true;
-        }
-        if((b1==sumab1%11) && (b2==0 && sumab2%11==10)){
-            caso4=true;
-        }
-
-        if(caso1||caso2||caso3||caso4){
-            cout<<"CPF valido"<<endl;
-        }else{
-            cout<<"CPF invalido"<<endl;
-        }
+int main() {
+  ios_base::sync_with_stdio(false);cin.tie(NULL);
+  string line;
+  while (cin >> line) {
+    int b1 = 0, b2 = 0;
+    for (int i = 0; i < line.size(); ++i) {
+      int cur = line[i] - '0';
+      b1 += cur * (i + 1);
+      b2 += cur * (9 - i);
     }
+    b1 %= 11; b1 %= 10;
+    b2 %= 11; b2 %= 10;
+    cout << line.substr(0, 3) << "." << line.substr(3, 3);
+    cout << "." << line.substr(6, 3) << "-" << b1 << b2 << endl;
+  }
+  return 0;
 }

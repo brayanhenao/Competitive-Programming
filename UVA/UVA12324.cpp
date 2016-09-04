@@ -22,7 +22,7 @@ int main()
         dm.push_back(b);
     }
     if(tiempos.size()==1){
-        pair<int,bool> xd=tiempos[0].first;
+            pair<int,bool> xd=tiempos[0].first;
         cout<<xd.first<<endl;
     }else{
         vector<pair<pi,int> > aux;

@@ -1,0 +1,271 @@
+20
+15
+P P P P P P P P P P P P P P P
+P Q Q Q I Q Q Q Q Q I I I I P
+P Q Q I I Q I I Q Q I I I I P
+P Q I Q I Q Q I Q Q Q Q I I P
+P I I I Q I Q Q I Q I Q I I P
+P Q Q Q I Q I I Q Q Q Q Q Q P
+P Q I Q Q I I I Q Q I Q Q Q P
+P Q I I Q I I I I I Q I I Q P
+P Q Q Q I Q Q I I I Q Q I Q P
+P Q Q Q Q Q Q I I Q I Q Q Q P
+P I I Q I Q I Q Q I Q I I I P
+P I I Q Q Q Q I Q Q I Q I Q P
+P I I I I Q Q I I Q I I Q Q P
+P I I I I Q Q Q Q Q I Q Q Q P
+P P P P P P P P P P P P P P P
+18
+P P P P P P P P P P P P P P P P P P
+P Q Q I I Q I Q I I Q Q I I I I I P
+P Q Q Q I I Q Q Q Q Q Q Q Q I Q I P
+P I Q Q Q Q Q Q Q Q Q I I Q Q I I P
+P I I Q Q I I Q Q Q Q Q Q Q Q Q I P
+P Q I Q I Q I I Q I I Q Q Q I Q I P
+P I Q Q I I I I Q Q Q I Q Q I Q Q P
+P Q Q Q Q I I Q Q I Q Q I Q Q Q Q P
+P I Q Q Q Q Q Q I Q I Q I Q Q Q I P
+P I Q Q Q I Q I Q I Q Q Q Q Q Q I P
+P Q Q Q Q I Q Q I Q Q I I Q Q Q Q P
+P Q Q I Q Q I Q Q Q I I I I Q Q I P
+P I Q I Q Q Q I I Q I I Q I Q I Q P
+P I Q Q Q Q Q Q Q Q Q I I Q Q I I P
+P I I Q Q I I Q Q Q Q Q Q Q Q Q I P
+P I Q I Q Q Q Q Q Q Q Q I I Q Q Q P
+P I I I I I Q Q I I Q I Q I I Q Q P
+P P P P P P P P P P P P P P P P P P
+15
+P P P P P P P P P P P P P P P
+P Q Q I Q I Q Q Q Q Q Q Q Q P
+P I I Q I I I I Q I Q I Q I P
+P I Q I I Q Q Q Q I Q Q I Q P
+P I Q I Q I Q I Q I I Q I I P
+P Q I I Q I I Q Q Q Q Q Q I P
+P Q I Q Q I I Q Q Q Q Q I Q P
+P Q Q I Q I I Q Q I I Q Q Q P
+P Q Q Q Q I I I I I Q Q I I P
+P Q Q Q Q Q Q Q Q I I I Q I P
+P Q Q Q I I I Q Q Q I I Q Q P
+P Q Q Q Q Q Q Q Q I I Q I I P
+P Q I Q I Q Q Q I I Q I Q Q P
+P I Q I I Q I Q Q Q Q I Q Q P
+P P P P P P P P P P P P P P P
+17
+P P P P P P P P P P P P P P P P P
+P Q I Q Q I Q Q I Q I Q I Q I I P
+P I I Q Q I Q Q I Q Q I I Q I I P
+P Q Q Q Q Q Q Q Q I I Q Q I Q Q P
+P Q Q Q I I I Q I Q Q I Q Q I I P
+P I I Q I I Q I Q Q I I I Q I Q P
+P Q Q Q I Q Q I I Q I I Q I Q I P
+P Q Q Q Q I I I I I Q Q Q I Q Q P
+P I I Q I Q I I Q I I Q I Q I I P
+P Q Q I Q Q Q I I I I I Q Q Q Q P
+P I Q I Q I I Q I I Q Q I Q Q Q P
+P Q I Q I I I Q Q I Q I I Q I I P
+P I I Q Q I Q Q I Q I I I Q Q Q P
+P Q Q I Q Q I I Q Q Q Q Q Q Q Q P
+P I I Q I I Q Q I Q Q I Q Q I I P
+P I I Q I Q I Q I Q Q I Q Q I Q P
+P P P P P P P P P P P P P P P P P
+9
+P P P P P P P P P
+P Q Q Q Q Q I I P
+P Q Q I Q Q Q I P
+P Q I Q I I Q Q P
+P Q Q I Q I Q Q P
+P Q Q I I Q I Q P
+P I Q Q Q I Q Q P
+P I I Q Q Q Q Q P
+P P P P P P P P P
+15
+P P P P P P P P P P P P P P P
+P I I I Q Q Q I Q Q I I I Q P
+P I Q Q I Q I I Q I Q I Q I P
+P I Q Q Q I Q Q I I Q Q I I P
+P Q I Q I I Q I Q I Q Q Q I P
+P Q Q I I Q I Q Q Q I I I Q P
+P Q I Q Q I Q Q I Q Q I Q Q P
+P I I Q I Q Q I Q Q I Q I I P
+P Q Q I Q Q I Q Q I Q Q I Q P
+P Q I I I Q Q Q I Q I I Q Q P
+P I Q Q Q I Q I Q I I Q I Q P
+P I I Q Q I I Q Q I Q Q Q I P
+P I Q I Q I Q I I Q I Q Q I P
+P Q I I I Q Q I Q Q Q I I I P
+P P P P P P P P P P P P P P P
+15
+P P P P P P P P P P P P P P P
+P I I I Q I Q I Q I Q Q I I P
+P Q I Q Q I I I Q I Q I I I P
+P Q Q Q I Q I I Q Q Q I I Q P
+P Q I Q Q Q Q I I Q I Q I Q P
+P Q I I Q Q Q Q I I I Q I Q P
+P Q Q Q I I Q I I I Q I Q Q P
+P Q I I Q I I Q Q I Q I I I P
+P Q I I Q Q I I I Q Q I I I P
+P I I Q I Q Q Q I Q I Q Q Q P
+P I I I Q Q I Q I I Q Q I Q P
+P I Q I I Q Q Q I Q Q Q Q I P
+P I Q Q I Q I Q Q Q Q Q I Q P
+P Q I I I Q Q I I Q Q I Q I P
+P P P P P P P P P P P P P P P
+3
+P P P
+P Q P
+P P P
+10
+P P P P P P P P P P
+P Q Q Q Q I I Q Q P
+P I I I I Q I Q Q P
+P I I Q I I Q I Q P
+P Q Q Q Q Q I I I P
+P I I Q I Q I I Q P
+P I I I I I Q Q Q P
+P Q I I Q Q Q I Q P
+P I Q I Q Q Q Q Q P
+P P P P P P P P P P
+18
+P P P P P P P P P P P P P P P P P P
+P I I I Q I I I Q Q Q I Q Q Q I Q P
+P I Q Q Q Q I Q I Q Q Q Q Q Q Q I P
+P I Q I I Q Q Q Q Q I I Q Q Q Q Q P
+P Q Q I I I Q Q I Q Q I Q Q Q Q Q P
+P I Q Q I I Q Q Q I Q Q Q Q Q Q Q P
+P I I Q Q Q I Q I I Q I Q I I Q I P
+P I Q Q Q Q Q Q Q Q Q Q Q Q I Q Q P
+P Q I Q I Q I Q I I Q I I Q Q Q Q P
+P Q Q Q Q I I Q I I Q I Q I Q I Q P
+P Q Q I Q Q Q Q Q Q Q Q Q Q Q Q I P
+P I Q I I Q I Q I I Q I Q Q Q I I P
+P Q Q Q Q Q Q Q I Q Q Q I I Q Q I P
+P Q Q Q Q Q I Q Q I Q Q I I I Q Q P
+P Q Q Q Q Q I I Q Q Q Q Q I I Q I P
+P I Q Q Q Q Q Q Q I Q I Q Q Q Q I P
+P Q I Q Q Q I Q Q Q I I I Q I I I P
+P P P P P P P P P P P P P P P P P P
+7
+P P P P P P P
+P I Q I Q Q P
+P I I Q Q Q P
+P Q I Q I Q P
+P I Q Q Q Q P
+P I Q Q Q I P
+P P P P P P P
+18
+P P P P P P P P P P P P P P P P P P
+P Q Q Q Q Q Q Q I Q Q I I Q Q Q I P
+P I Q Q I I Q Q I I Q Q Q Q Q I I P
+P I I Q I Q Q Q Q Q Q I I I Q Q I P
+P Q Q Q Q I I Q Q Q Q I Q I Q Q I P
+P I Q Q Q Q Q I Q I Q I Q I I I Q P
+P I Q I Q Q Q I I I Q Q I Q Q I Q P
+P I Q Q Q I I I I Q I I Q Q Q Q I P
+P Q Q Q I Q I I I I Q Q Q Q I I I P
+P I Q Q Q I I Q Q I Q Q Q I Q Q I P
+P Q I Q Q Q Q Q I Q I Q Q Q Q I I P
+P I Q Q Q I Q Q Q I I Q Q Q I Q Q P
+P I Q I Q Q Q Q Q Q Q I Q Q I Q Q P
+P Q Q Q Q Q Q Q I I Q I I Q Q Q I P
+P Q Q I I I I Q I I I I Q I Q Q Q P
+P Q I Q I Q Q Q Q Q Q Q Q Q I Q Q P
+P Q Q Q Q I I Q Q Q Q Q Q Q Q I Q P
+P P P P P P P P P P P P P P P P P P
+18
+P P P P P P P P P P P P P P P P P P
+P Q I I I Q Q I Q Q I I Q I I Q Q P
+P I Q Q I Q I Q I Q Q I Q I Q Q Q P
+P I Q I I Q Q I Q I I Q Q I Q Q I P
+P I I I I I I Q I Q Q I I I I I I P
+P Q Q Q I Q Q Q I Q I Q Q I Q Q Q P
+P Q I Q I Q I Q I I Q I Q I Q I I P
+P I Q I Q Q Q Q I Q I Q I Q I Q I P
+P Q I Q I I I I Q Q Q I Q Q I Q Q P
+P Q Q I Q Q I Q Q Q I I I I Q I Q P
+P I Q I Q I Q I Q I Q Q Q Q I Q I P
+P I I Q I Q I Q I I Q I Q I Q I Q P
+P Q Q Q I Q Q I Q I Q Q Q I Q Q Q P
+P I I I I I I Q Q I Q I I I I I I P
+P I Q Q I Q Q I I Q I Q Q I I Q I P
+P Q Q Q I Q I Q Q I Q I Q I Q Q I P
+P Q Q I I Q I I Q Q I Q Q I I I Q P
+P P P P P P P P P P P P P P P P P P
+14
+P P P P P P P P P P P P P P
+P Q Q Q Q Q I Q Q Q Q Q Q P
+P I I I Q I I Q Q Q Q I I P
+P Q I I Q Q Q Q Q Q Q Q I P
+P Q Q I Q Q Q Q Q Q Q Q I P
+P Q Q I I Q Q Q I Q I Q Q P
+P Q I Q I Q Q I I Q I I I P
+P I I I Q Q I I Q I I Q Q P
+P I I Q I I Q I I Q Q Q I P
+P Q Q Q Q I Q Q Q Q Q Q Q P
+P Q Q I Q I Q Q I Q I I Q P
+P I Q Q Q Q Q Q I Q Q Q Q P
+P Q Q Q Q Q I Q I I Q I Q P
+P P P P P P P P P P P P P P
+4
+P P P P
+P Q I P
+P Q I P
+P P P P
+11
+P P P P P P P P P P P
+P I Q I I Q Q Q Q Q P
+P Q Q Q Q Q Q Q Q Q P
+P Q I Q I I Q I I Q P
+P Q Q Q I Q I Q Q Q P
+P I Q Q Q I Q Q I Q P
+P Q I Q Q Q Q I I Q P
+P I Q Q Q Q I Q Q Q P
+P I Q I Q I Q Q Q I P
+P I Q I Q Q Q I I I P
+P P P P P P P P P P P
+5
+P P P P P
+P Q Q Q P
+P Q I Q P
+P Q Q Q P
+P P P P P
+12
+P P P P P P P P P P P P
+P Q Q Q Q I Q Q Q I Q P
+P Q Q Q I Q I Q Q I I P
+P Q Q Q I Q I I Q I I P
+P I Q I Q Q Q I Q Q I P
+P I I Q Q I Q Q Q Q Q P
+P Q Q Q Q Q I I Q Q I P
+P Q Q I I Q Q I Q Q Q P
+P Q Q I I I I I Q I Q P
+P I I Q I Q Q Q I Q Q P
+P Q Q Q I Q Q Q Q Q I P
+P P P P P P P P P P P P
+10
+P P P P P P P P P P
+P Q I Q I I I I Q P
+P I I Q Q Q I I I P
+P Q I Q Q I I Q I P
+P I I Q I I Q I Q P
+P Q Q I I I Q Q I P
+P I I Q I I Q Q I P
+P I Q Q Q I I Q Q P
+P I Q I Q Q I Q I P
+P P P P P P P P P P
+16
+P P P P P P P P P P P P P P P P
+P I Q I I Q Q Q Q Q I Q Q I Q P
+P Q Q Q Q Q I I Q I Q I Q I I P
+P Q Q Q Q Q I Q Q I I I I I Q P
+P I Q Q Q Q I Q Q Q Q Q Q Q Q P
+P I Q Q I Q I Q Q Q Q Q Q I Q P
+P Q I Q Q Q I Q I Q I Q I Q Q P
+P Q Q I Q I I I Q I Q Q Q Q Q P
+P Q Q Q I I Q Q Q Q Q Q I I Q P
+P Q I Q I Q Q I Q I Q I Q Q Q P
+P I I I I Q Q Q Q I I I Q I I P
+P Q Q I Q I Q Q I I Q I I I I P
+P I Q Q I Q I Q Q Q I Q Q Q I P
+P I I Q Q I Q I Q Q Q I Q Q Q P
+P I Q Q Q Q I I I I Q I I Q Q P
+P P P P P P P P P P P P P P P P

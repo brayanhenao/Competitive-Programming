@@ -1,0 +1,5000 @@
+Caso #1: Gengar nivel 26
+HP: 150
+AT: 81
+DF: 45
+SP: 66
+Caso #2: Tentacruel nivel 80
+HP: 184
+AT: 352
+DF: 479
+SP: 239
+Caso #3: Cubone nivel 83
+HP: 233
+AT: 287
+DF: 383
+SP: 400
+Caso #4: Onix nivel 41
+HP: 173
+AT: 68
+DF: 118
+SP: 182
+Caso #5: Muk nivel 79
+HP: 397
+AT: 392
+DF: 325
+SP: 34
+Caso #6: Goldeen nivel 18
+HP: 101
+AT: 40
+DF: 100
+SP: 87
+Caso #7: Poliwag nivel 95
+HP: 554
+AT: 299
+DF: 526
+SP: 529
+Caso #8: Machoke nivel 87
+HP: 566
+AT: 196
+DF: 270
+SP: 234
+Caso #9: Jolteon nivel 34
+HP: 238
+AT: 224
+DF: 150
+SP: 182
+Caso #10: Ekans nivel 1
+HP: 13
+AT: 7
+DF: 8
+SP: 7
+Caso #11: Tangela nivel 53
+HP: 226
+AT: 280
+DF: 181
+SP: 212
+Caso #12: Weezing nivel 80
+HP: 580
+AT: 189
+DF: 514
+SP: 259
+Caso #13: Squirtle nivel 48
+HP: 325
+AT: 166
+DF: 242
+SP: 92
+Caso #14: Shellder nivel 79
+HP: 238
+AT: 416
+DF: 365
+SP: 477
+Caso #15: Golem nivel 79
+HP: 301
+AT: 342
+DF: 366
+SP: 423
+Caso #16: Wartortle nivel 68
+HP: 354
+AT: 106
+DF: 237
+SP: 54
+Caso #17: Meowth nivel 87
+HP: 553
+AT: 377
+DF: 245
+SP: 451
+Caso #18: Nidorino nivel 21
+HP: 112
+AT: 111
+DF: 92
+SP: 24
+Caso #19: Flareon nivel 51
+HP: 238
+AT: 272
+DF: 132
+SP: 78
+Caso #20: Hitmonlee nivel 58
+HP: 172
+AT: 257
+DF: 108
+SP: 209
+Caso #21: Dragonair nivel 6
+HP: 32
+AT: 36
+DF: 36
+SP: 33
+Caso #22: Pidgey nivel 85
+HP: 215
+AT: 181
+DF: 485
+SP: 176
+Caso #23: Alakazam nivel 9
+HP: 27
+AT: 45
+DF: 53
+SP: 53
+Caso #24: Magmar nivel 69
+HP: 421
+AT: 330
+DF: 115
+SP: 343
+Caso #25: Ditto nivel 93
+HP: 540
+AT: 467
+DF: 473
+SP: 569
+Caso #26: Kingler nivel 18
+HP: 72
+AT: 54
+DF: 81
+SP: 118
+Caso #27: Ditto nivel 66
+HP: 381
+AT: 387
+DF: 133
+SP: 394
+Caso #28: Mankey nivel 72
+HP: 431
+AT: 300
+DF: 173
+SP: 425
+Caso #29: Nidorino nivel 78
+HP: 402
+AT: 156
+DF: 261
+SP: 66
+Caso #30: Seadra nivel 17
+HP: 85
+AT: 53
+DF: 78
+SP: 26
+Caso #31: Caterpie nivel 69
+HP: 395
+AT: 198
+DF: 241
+SP: 164
+Caso #32: Drowzee nivel 53
+HP: 283
+AT: 140
+DF: 157
+SP: 110
+Caso #33: Geodude nivel 13
+HP: 83
+AT: 73
+DF: 43
+SP: 48
+Caso #34: Moltres nivel 97
+HP: 646
+AT: 521
+DF: 383
+SP: 493
+Caso #35: Raichu nivel 72
+HP: 337
+AT: 136
+DF: 270
+SP: 115
+Caso #36: Bellsprout nivel 4
+HP: 31
+AT: 18
+DF: 20
+SP: 22
+Caso #37: Oddish nivel 48
+HP: 105
+AT: 287
+DF: 157
+SP: 217
+Caso #38: Cloyster nivel 21
+HP: 67
+AT: 126
+DF: 77
+SP: 85
+Caso #39: NidoranH nivel 35
+HP: 219
+AT: 213
+DF: 82
+SP: 55
+Caso #40: Weezing nivel 24
+HP: 159
+AT: 75
+DF: 105
+SP: 19
+Caso #41: Rapidash nivel 97
+HP: 597
+AT: 261
+DF: 238
+SP: 469
+Caso #42: NidoranH nivel 48
+HP: 324
+AT: 179
+DF: 140
+SP: 46
+Caso #43: Dragonite nivel 20
+HP: 120
+AT: 83
+DF: 32
+SP: 83
+Caso #44: Exeggcute nivel 30
+HP: 212
+AT: 70
+DF: 176
+SP: 132
+Caso #45: Rhyhorn nivel 76
+HP: 273
+AT: 92
+DF: 133
+SP: 54
+Caso #46: Gastly nivel 34
+HP: 164
+AT: 142
+DF: 67
+SP: 177
+Caso #47: Eevee nivel 76
+HP: 197
+AT: 229
+DF: 401
+SP: 347
+Caso #48: Metapod nivel 14
+HP: 111
+AT: 73
+DF: 38
+SP: 46
+Caso #49: Kabuto nivel 93
+HP: 607
+AT: 348
+DF: 260
+SP: 189
+Caso #50: Shellder nivel 13
+HP: 66
+AT: 64
+DF: 69
+SP: 50
+Caso #51: Paras nivel 98
+HP: 285
+AT: 399
+DF: 181
+SP: 345
+Caso #52: Electabuzz nivel 72
+HP: 462
+AT: 313
+DF: 302
+SP: 196
+Caso #53: Exeggcute nivel 64
+HP: 120
+AT: 159
+DF: 322
+SP: 227
+Caso #54: Growlithe nivel 58
+HP: 386
+AT: 64
+DF: 336
+SP: 119
+Caso #55: Nidorino nivel 91
+HP: 271
+AT: 404
+DF: 232
+SP: 214
+Caso #56: Dewgong nivel 68
+HP: 325
+AT: 296
+DF: 209
+SP: 308
+Caso #57: Tentacool nivel 48
+HP: 202
+AT: 287
+DF: 253
+SP: 242
+Caso #58: Gengar nivel 98
+HP: 586
+AT: 291
+DF: 104
+SP: 483
+Caso #59: Doduo nivel 30
+HP: 196
+AT: 129
+DF: 79
+SP: 33
+Caso #60: NidoranH nivel 67
+HP: 374
+AT: 347
+DF: 82
+SP: 193
+Caso #61: Ninetales nivel 77
+HP: 430
+AT: 411
+DF: 225
+SP: 454
+Caso #62: Nidoqueen nivel 73
+HP: 529
+AT: 131
+DF: 199
+SP: 189
+Caso #63: Electrode nivel 48
+HP: 209
+AT: 203
+DF: 59
+SP: 183
+Caso #64: Persian nivel 74
+HP: 285
+AT: 301
+DF: 412
+SP: 115
+Caso #65: Lickitung nivel 15
+HP: 39
+AT: 77
+DF: 59
+SP: 51
+Caso #66: Weedle nivel 45
+HP: 240
+AT: 139
+DF: 210
+SP: 49
+Caso #67: Zapdos nivel 49
+HP: 159
+AT: 234
+DF: 305
+SP: 103
+Caso #68: Clefable nivel 50
+HP: 321
+AT: 58
+DF: 301
+SP: 290
+Caso #69: Weedle nivel 76
+HP: 403
+AT: 458
+DF: 418
+SP: 392
+Caso #70: Lickitung nivel 98
+HP: 368
+AT: 499
+DF: 182
+SP: 480
+Caso #71: Golbat nivel 77
+HP: 302
+AT: 97
+DF: 364
+SP: 270
+Caso #72: Slowbro nivel 78
+HP: 249
+AT: 394
+DF: 416
+SP: 411
+Caso #73: Tentacruel nivel 8
+HP: 36
+AT: 32
+DF: 37
+SP: 19
+Caso #74: Poliwag nivel 66
+HP: 245
+AT: 86
+DF: 148
+SP: 211
+Caso #75: Graveler nivel 8
+HP: 62
+AT: 41
+DF: 24
+SP: 35
+Caso #76: Moltres nivel 2
+HP: 14
+AT: 9
+DF: 13
+SP: 9
+Caso #77: Dratini nivel 27
+HP: 102
+AT: 81
+DF: 79
+SP: 104
+Caso #78: Lickitung nivel 45
+HP: 255
+AT: 182
+DF: 123
+SP: 96
+Caso #79: Mew nivel 16
+HP: 46
+AT: 34
+DF: 60
+SP: 63
+Caso #80: Kabutops nivel 95
+HP: 255
+AT: 398
+DF: 385
+SP: 477
+Caso #81: Fearow nivel 14
+HP: 63
+AT: 63
+DF: 20
+SP: 67
+Caso #82: Persian nivel 35
+HP: 133
+AT: 97
+DF: 79
+SP: 142
+Caso #83: Geodude nivel 23
+HP: 58
+AT: 33
+DF: 107
+SP: 43
+Caso #84: Squirtle nivel 46
+HP: 219
+AT: 251
+DF: 251
+SP: 95
+Caso #85: Diglett nivel 13
+HP: 57
+AT: 71
+DF: 69
+SP: 32
+Caso #86: Rhydon nivel 24
+HP: 48
+AT: 65
+DF: 58
+SP: 42
+Caso #87: Machamp nivel 65
+HP: 133
+AT: 219
+DF: 394
+SP: 365
+Caso #88: Seaking nivel 46
+HP: 258
+AT: 231
+DF: 181
+SP: 274
+Caso #89: Staryu nivel 32
+HP: 222
+AT: 126
+DF: 156
+SP: 134
+Caso #90: Venomoth nivel 68
+HP: 250
+AT: 140
+DF: 216
+SP: 290
+Caso #91: Hitmonchan nivel 18
+HP: 112
+AT: 55
+DF: 73
+SP: 107
+Caso #92: Jigglypuff nivel 52
+HP: 339
+AT: 263
+DF: 90
+SP: 67
+Caso #93: Primeape nivel 2
+HP: 14
+AT: 15
+DF: 7
+SP: 10
+Caso #94: Wartortle nivel 71
+HP: 245
+AT: 351
+DF: 425
+SP: 158
+Caso #95: Doduo nivel 43
+HP: 215
+AT: 157
+DF: 153
+SP: 215
+Caso #96: Wartortle nivel 32
+HP: 169
+AT: 170
+DF: 164
+SP: 138
+Caso #97: Blastoise nivel 51
+HP: 308
+AT: 35
+DF: 282
+SP: 265
+Caso #98: Tentacruel nivel 15
+HP: 81
+AT: 46
+DF: 98
+SP: 42
+Caso #99: Mew nivel 99
+HP: 545
+AT: 260
+DF: 444
+SP: 503
+Caso #100: Cloyster nivel 16
+HP: 87
+AT: 88
+DF: 90
+SP: 70
+Caso #101: Marowak nivel 31
+HP: 93
+AT: 127
+DF: 58
+SP: 173
+Caso #102: Rattata nivel 59
+HP: 240
+AT: 297
+DF: 131
+SP: 186
+Caso #103: Dewgong nivel 20
+HP: 111
+AT: 76
+DF: 78
+SP: 101
+Caso #104: Nidorina nivel 94
+HP: 421
+AT: 462
+DF: 258
+SP: 384
+Caso #105: Mankey nivel 9
+HP: 55
+AT: 33
+DF: 38
+SP: 25
+Caso #106: Rhyhorn nivel 59
+HP: 436
+AT: 99
+DF: 133
+SP: 210
+Caso #107: Jigglypuff nivel 100
+HP: 451
+AT: 406
+DF: 608
+SP: 507
+Caso #108: Nidoqueen nivel 55
+HP: 208
+AT: 72
+DF: 122
+SP: 179
+Caso #109: Lickitung nivel 49
+HP: 164
+AT: 222
+DF: 190
+SP: 68
+Caso #110: Psyduck nivel 45
+HP: 249
+AT: 258
+DF: 101
+SP: 273
+Caso #111: Magneton nivel 15
+HP: 96
+AT: 39
+DF: 37
+SP: 96
+Caso #112: Charmeleon nivel 36
+HP: 250
+AT: 107
+DF: 223
+SP: 217
+Caso #113: Omanyte nivel 100
+HP: 641
+AT: 145
+DF: 446
+SP: 461
+Caso #114: Gyarados nivel 34
+HP: 227
+AT: 27
+DF: 67
+SP: 46
+Caso #115: Ninetales nivel 13
+HP: 37
+AT: 42
+DF: 61
+SP: 46
+Caso #116: Tangela nivel 49
+HP: 274
+AT: 55
+DF: 244
+SP: 160
+Caso #117: Raticate nivel 95
+HP: 432
+AT: 290
+DF: 415
+SP: 553
+Caso #118: Kabuto nivel 34
+HP: 165
+AT: 48
+DF: 106
+SP: 72
+Caso #119: Psyduck nivel 8
+HP: 38
+AT: 41
+DF: 20
+SP: 56
+Caso #120: Muk nivel 11
+HP: 40
+AT: 21
+DF: 47
+SP: 41
+Caso #121: Diglett nivel 39
+HP: 157
+AT: 88
+DF: 151
+SP: 248
+Caso #122: Dewgong nivel 39
+HP: 120
+AT: 81
+DF: 201
+SP: 186
+Caso #123: Gengar nivel 11
+HP: 66
+AT: 58
+DF: 45
+SP: 35
+Caso #124: Goldeen nivel 59
+HP: 397
+AT: 179
+DF: 304
+SP: 63
+Caso #125: Exeggcute nivel 58
+HP: 142
+AT: 236
+DF: 233
+SP: 332
+Caso #126: Rattata nivel 27
+HP: 161
+AT: 83
+DF: 95
+SP: 161
+Caso #127: Arbok nivel 63
+HP: 368
+AT: 311
+DF: 245
+SP: 201
+Caso #128: Dodrio nivel 51
+HP: 149
+AT: 244
+DF: 199
+SP: 279
+Caso #129: Weezing nivel 36
+HP: 151
+AT: 151
+DF: 172
+SP: 178
+Caso #130: Kabuto nivel 78
+HP: 483
+AT: 417
+DF: 438
+SP: 469
+Caso #131: Victreebel nivel 83
+HP: 246
+AT: 136
+DF: 163
+SP: 158
+Caso #132: Gyarados nivel 90
+HP: 344
+AT: 286
+DF: 354
+SP: 405
+Caso #133: Nidorino nivel 95
+HP: 257
+AT: 507
+DF: 249
+SP: 146
+Caso #134: Rhydon nivel 37
+HP: 142
+AT: 200
+DF: 218
+SP: 167
+Caso #135: Machop nivel 41
+HP: 274
+AT: 241
+DF: 243
+SP: 180
+Caso #136: Tentacool nivel 31
+HP: 214
+AT: 120
+DF: 35
+SP: 169
+Caso #137: Shellder nivel 80
+HP: 404
+AT: 273
+DF: 461
+SP: 86
+Caso #138: Tauros nivel 80
+HP: 538
+AT: 478
+DF: 438
+SP: 86
+Caso #139: Kadabra nivel 33
+HP: 184
+AT: 61
+DF: 185
+SP: 151
+Caso #140: Machoke nivel 28
+HP: 165
+AT: 114
+DF: 140
+SP: 177
+Caso #141: Graveler nivel 40
+HP: 204
+AT: 225
+DF: 218
+SP: 231
+Caso #142: Weepinbell nivel 3
+HP: 24
+AT: 22
+DF: 14
+SP: 22
+Caso #143: Marowak nivel 90
+HP: 616
+AT: 541
+DF: 567
+SP: 482
+Caso #144: Dratini nivel 33
+HP: 168
+AT: 208
+DF: 81
+SP: 71
+Caso #145: Victreebel nivel 96
+HP: 529
+AT: 490
+DF: 199
+SP: 333
+Caso #146: Zubat nivel 47
+HP: 304
+AT: 189
+DF: 210
+SP: 276
+Caso #147: Flareon nivel 81
+HP: 467
+AT: 161
+DF: 200
+SP: 292
+Caso #148: Parasect nivel 44
+HP: 285
+AT: 225
+DF: 188
+SP: 194
+Caso #149: Ditto nivel 71
+HP: 233
+AT: 190
+DF: 372
+SP: 178
+Caso #150: Sandshrew nivel 62
+HP: 167
+AT: 282
+DF: 214
+SP: 339
+Caso #151: Krabby nivel 85
+HP: 614
+AT: 367
+DF: 399
+SP: 325
+Caso #152: Pikachu nivel 57
+HP: 179
+AT: 204
+DF: 204
+SP: 124
+Caso #153: Spearow nivel 100
+HP: 304
+AT: 138
+DF: 562
+SP: 291
+Caso #154: Vileplume nivel 93
+HP: 386
+AT: 132
+DF: 227
+SP: 218
+Caso #155: Metapod nivel 92
+HP: 528
+AT: 309
+DF: 294
+SP: 315
+Caso #156: Charmeleon nivel 90
+HP: 410
+AT: 224
+DF: 230
+SP: 411
+Caso #157: Snorlax nivel 99
+HP: 303
+AT: 520
+DF: 382
+SP: 364
+Caso #158: Fearow nivel 50
+HP: 346
+AT: 58
+DF: 207
+SP: 93
+Caso #159: Starmie nivel 97
+HP: 670
+AT: 433
+DF: 517
+SP: 537
+Caso #160: Dragonair nivel 78
+HP: 232
+AT: 478
+DF: 308
+SP: 412
+Caso #161: Poliwag nivel 15
+HP: 120
+AT: 75
+DF: 73
+SP: 41
+Caso #162: Seel nivel 62
+HP: 335
+AT: 363
+DF: 86
+SP: 362
+Caso #163: Rhydon nivel 7
+HP: 42
+AT: 23
+DF: 23
+SP: 27
+Caso #164: Chansey nivel 70
+HP: 322
+AT: 418
+DF: 112
+SP: 319
+Caso #165: Dragonair nivel 52
+HP: 249
+AT: 238
+DF: 70
+SP: 242
+Caso #166: Poliwag nivel 67
+HP: 442
+AT: 373
+DF: 65
+SP: 417
+Caso #167: Haunter nivel 5
+HP: 30
+AT: 31
+DF: 28
+SP: 31
+Caso #168: Kabutops nivel 4
+HP: 23
+AT: 14
+DF: 18
+SP: 25
+Caso #169: Nidoking nivel 5
+HP: 30
+AT: 17
+DF: 18
+SP: 29
+Caso #170: Gastly nivel 59
+HP: 173
+AT: 185
+DF: 251
+SP: 214
+Caso #171: Nidoqueen nivel 40
+HP: 159
+AT: 108
+DF: 231
+SP: 85
+Caso #172: Vileplume nivel 61
+HP: 312
+AT: 312
+DF: 307
+SP: 282
+Caso #173: Venonat nivel 94
+HP: 405
+AT: 299
+DF: 359
+SP: 326
+Caso #174: Dragonair nivel 27
+HP: 133
+AT: 113
+DF: 82
+SP: 175
+Caso #175: Kadabra nivel 83
+HP: 283
+AT: 203
+DF: 341
+SP: 187
+Caso #176: Omanyte nivel 90
+HP: 265
+AT: 415
+DF: 261
+SP: 329
+Caso #177: Golem nivel 69
+HP: 419
+AT: 309
+DF: 253
+SP: 280
+Caso #178: Machamp nivel 71
+HP: 441
+AT: 254
+DF: 176
+SP: 272
+Caso #179: Omanyte nivel 63
+HP: 297
+AT: 402
+DF: 63
+SP: 98
+Caso #180: Wartortle nivel 42
+HP: 183
+AT: 170
+DF: 246
+SP: 158
+Caso #181: Kadabra nivel 5
+HP: 36
+AT: 16
+DF: 11
+SP: 23
+Caso #182: Articuno nivel 84
+HP: 336
+AT: 104
+DF: 461
+SP: 226
+Caso #183: Gloom nivel 74
+HP: 190
+AT: 258
+DF: 127
+SP: 83
+Caso #184: Nidorino nivel 67
+HP: 374
+AT: 370
+DF: 314
+SP: 279
+Caso #185: Raichu nivel 51
+HP: 143
+AT: 281
+DF: 190
+SP: 125
+Caso #186: Pidgey nivel 16
+HP: 52
+AT: 60
+DF: 86
+SP: 80
+Caso #187: Lapras nivel 68
+HP: 234
+AT: 57
+DF: 313
+SP: 81
+Caso #188: Rattata nivel 54
+HP: 409
+AT: 62
+DF: 283
+SP: 163
+Caso #189: Magnemite nivel 82
+HP: 278
+AT: 450
+DF: 384
+SP: 129
+Caso #190: NidoranH nivel 9
+HP: 41
+AT: 50
+DF: 52
+SP: 53
+Caso #191: Farfetch'd nivel 97
+HP: 369
+AT: 599
+DF: 530
+SP: 282
+Caso #192: Flareon nivel 88
+HP: 222
+AT: 234
+DF: 346
+SP: 184
+Caso #193: Raichu nivel 58
+HP: 187
+AT: 345
+DF: 209
+SP: 42
+Caso #194: Meowth nivel 75
+HP: 442
+AT: 91
+DF: 188
+SP: 139
+Caso #195: Parasect nivel 70
+HP: 281
+AT: 53
+DF: 337
+SP: 133
+Caso #196: Koffing nivel 43
+HP: 218
+AT: 147
+DF: 161
+SP: 93
+Caso #197: Nidoking nivel 19
+HP: 152
+AT: 110
+DF: 53
+SP: 31
+Caso #198: Beedrill nivel 53
+HP: 103
+AT: 225
+DF: 273
+SP: 225
+Caso #199: Goldeen nivel 4
+HP: 26
+AT: 28
+DF: 22
+SP: 17
+Caso #200: Hitmonlee nivel 68
+HP: 230
+AT: 315
+DF: 82
+SP: 215
+Caso #201: Kabuto nivel 74
+HP: 523
+AT: 140
+DF: 87
+SP: 315
+Caso #202: Clefable nivel 63
+HP: 429
+AT: 104
+DF: 407
+SP: 340
+Caso #203: Pinsir nivel 92
+HP: 212
+AT: 375
+DF: 152
+SP: 512
+Caso #204: Mewtwo nivel 70
+HP: 156
+AT: 304
+DF: 139
+SP: 390
+Caso #205: Vileplume nivel 13
+HP: 87
+AT: 83
+DF: 42
+SP: 20
+Caso #206: Vileplume nivel 60
+HP: 127
+AT: 353
+DF: 263
+SP: 78
+Caso #207: Pidgey nivel 65
+HP: 166
+AT: 140
+DF: 106
+SP: 231
+Caso #208: Hypno nivel 74
+HP: 218
+AT: 242
+DF: 128
+SP: 100
+Caso #209: Nidoking nivel 62
+HP: 388
+AT: 269
+DF: 90
+SP: 379
+Caso #210: Arbok nivel 99
+HP: 670
+AT: 302
+DF: 118
+SP: 166
+Caso #211: Cubone nivel 54
+HP: 275
+AT: 86
+DF: 120
+SP: 139
+Caso #212: Articuno nivel 39
+HP: 260
+AT: 143
+DF: 162
+SP: 71
+Caso #213: Venonat nivel 48
+HP: 308
+AT: 83
+DF: 243
+SP: 123
+Caso #214: Golbat nivel 18
+HP: 61
+AT: 34
+DF: 68
+SP: 40
+Caso #215: Magneton nivel 51
+HP: 353
+AT: 255
+DF: 280
+SP: 81
+Caso #216: Dragonite nivel 96
+HP: 426
+AT: 594
+DF: 208
+SP: 204
+Caso #217: Muk nivel 72
+HP: 424
+AT: 383
+DF: 287
+SP: 108
+Caso #218: Kabuto nivel 64
+HP: 472
+AT: 208
+DF: 224
+SP: 104
+Caso #219: Lickitung nivel 26
+HP: 193
+AT: 65
+DF: 40
+SP: 127
+Caso #220: Tauros nivel 54
+HP: 350
+AT: 136
+DF: 136
+SP: 194
+Caso #221: Pidgeotto nivel 71
+HP: 222
+AT: 299
+DF: 155
+SP: 397
+Caso #222: Zapdos nivel 14
+HP: 93
+AT: 83
+DF: 47
+SP: 35
+Caso #223: Nidoqueen nivel 35
+HP: 131
+AT: 74
+DF: 122
+SP: 65
+Caso #224: Gyarados nivel 89
+HP: 637
+AT: 372
+DF: 397
+SP: 508
+Caso #225: Weedle nivel 4
+HP: 36
+AT: 12
+DF: 24
+SP: 24
+Caso #226: Graveler nivel 76
+HP: 369
+AT: 430
+DF: 370
+SP: 420
+Caso #227: Pidgeot nivel 90
+HP: 503
+AT: 115
+DF: 179
+SP: 384
+Caso #228: Articuno nivel 39
+HP: 243
+AT: 173
+DF: 232
+SP: 177
+Caso #229: Chansey nivel 65
+HP: 165
+AT: 256
+DF: 363
+SP: 372
+Caso #230: Charmander nivel 42
+HP: 197
+AT: 64
+DF: 245
+SP: 215
+Caso #231: Onix nivel 40
+HP: 159
+AT: 118
+DF: 216
+SP: 86
+Caso #232: Charmander nivel 37
+HP: 226
+AT: 182
+DF: 131
+SP: 147
+Caso #233: Kakuna nivel 87
+HP: 201
+AT: 181
+DF: 388
+SP: 482
+Caso #234: Magikarp nivel 71
+HP: 301
+AT: 288
+DF: 80
+SP: 162
+Caso #235: Tangela nivel 89
+HP: 207
+AT: 328
+DF: 333
+SP: 263
+Caso #236: Venusaur nivel 96
+HP: 604
+AT: 150
+DF: 419
+SP: 484
+Caso #237: Bellsprout nivel 52
+HP: 155
+AT: 98
+DF: 213
+SP: 291
+Caso #238: Vaporeon nivel 92
+HP: 520
+AT: 143
+DF: 304
+SP: 367
+Caso #239: Marowak nivel 64
+HP: 281
+AT: 316
+DF: 84
+SP: 154
+Caso #240: Beedrill nivel 40
+HP: 258
+AT: 221
+DF: 115
+SP: 229
+Caso #241: Clefairy nivel 17
+HP: 117
+AT: 70
+DF: 47
+SP: 55
+Caso #242: Ponyta nivel 77
+HP: 440
+AT: 393
+DF: 253
+SP: 409
+Caso #243: Kangaskhan nivel 93
+HP: 587
+AT: 373
+DF: 157
+SP: 170
+Caso #244: Squirtle nivel 30
+HP: 128
+AT: 55
+DF: 172
+SP: 121
+Caso #245: Weedle nivel 65
+HP: 413
+AT: 266
+DF: 357
+SP: 306
+Caso #246: Staryu nivel 11
+HP: 84
+AT: 24
+DF: 32
+SP: 25
+Caso #247: Poliwag nivel 64
+HP: 430
+AT: 240
+DF: 245
+SP: 351
+Caso #248: Magneton nivel 29
+HP: 158
+AT: 169
+DF: 30
+SP: 37
+Caso #249: Shellder nivel 57
+HP: 416
+AT: 103
+DF: 112
+SP: 87
+Caso #250: Venonat nivel 2
+HP: 23
+AT: 7
+DF: 15
+SP: 10
+Caso #251: Weedle nivel 10
+HP: 36
+AT: 51
+DF: 45
+SP: 25
+Caso #252: Haunter nivel 36
+HP: 191
+AT: 229
+DF: 21
+SP: 88
+Caso #253: Bellsprout nivel 79
+HP: 516
+AT: 437
+DF: 284
+SP: 425
+Caso #254: Lapras nivel 15
+HP: 81
+AT: 79
+DF: 94
+SP: 38
+Caso #255: Jynx nivel 45
+HP: 221
+AT: 78
+DF: 190
+SP: 267
+Caso #256: Growlithe nivel 34
+HP: 110
+AT: 216
+DF: 161
+SP: 73
+Caso #257: Rapidash nivel 94
+HP: 192
+AT: 525
+DF: 476
+SP: 220
+Caso #258: Articuno nivel 92
+HP: 477
+AT: 421
+DF: 153
+SP: 138
+Caso #259: Alakazam nivel 20
+HP: 91
+AT: 113
+DF: 51
+SP: 76
+Caso #260: Lickitung nivel 46
+HP: 256
+AT: 133
+DF: 271
+SP: 162
+Caso #261: Cloyster nivel 97
+HP: 335
+AT: 105
+DF: 406
+SP: 455
+Caso #262: Marowak nivel 28
+HP: 96
+AT: 49
+DF: 34
+SP: 55
+Caso #263: Golem nivel 60
+HP: 378
+AT: 181
+DF: 302
+SP: 119
+Caso #264: Squirtle nivel 38
+HP: 276
+AT: 64
+DF: 159
+SP: 196
+Caso #265: Jolteon nivel 88
+HP: 207
+AT: 456
+DF: 244
+SP: 452
+Caso #266: Diglett nivel 24
+HP: 73
+AT: 133
+DF: 109
+SP: 48
+Caso #267: Cloyster nivel 24
+HP: 150
+AT: 158
+DF: 51
+SP: 23
+Caso #268: Parasect nivel 72
+HP: 272
+AT: 107
+DF: 335
+SP: 302
+Caso #269: Zapdos nivel 82
+HP: 420
+AT: 410
+DF: 117
+SP: 260
+Caso #270: Raticate nivel 98
+HP: 422
+AT: 248
+DF: 369
+SP: 257
+Caso #271: Oddish nivel 27
+HP: 92
+AT: 151
+DF: 84
+SP: 61
+Caso #272: Vaporeon nivel 10
+HP: 56
+AT: 32
+DF: 66
+SP: 14
+Caso #273: Venomoth nivel 20
+HP: 116
+AT: 11
+DF: 68
+SP: 63
+Caso #274: Voltorb nivel 94
+HP: 288
+AT: 618
+DF: 269
+SP: 503
+Caso #275: Victreebel nivel 82
+HP: 384
+AT: 160
+DF: 256
+SP: 167
+Caso #276: Mankey nivel 84
+HP: 340
+AT: 257
+DF: 339
+SP: 492
+Caso #277: Grimer nivel 62
+HP: 265
+AT: 106
+DF: 133
+SP: 254
+Caso #278: Rapidash nivel 98
+HP: 614
+AT: 174
+DF: 220
+SP: 385
+Caso #279: Kakuna nivel 50
+HP: 137
+AT: 122
+DF: 252
+SP: 158
+Caso #280: Marowak nivel 18
+HP: 89
+AT: 76
+DF: 50
+SP: 32
+Caso #281: Chansey nivel 47
+HP: 173
+AT: 170
+DF: 137
+SP: 84
+Caso #282: Pikachu nivel 30
+HP: 207
+AT: 87
+DF: 132
+SP: 61
+Caso #283: Dodrio nivel 37
+HP: 255
+AT: 151
+DF: 116
+SP: 64
+Caso #284: Dratini nivel 28
+HP: 103
+AT: 40
+DF: 136
+SP: 107
+Caso #285: Persian nivel 31
+HP: 124
+AT: 69
+DF: 170
+SP: 122
+Caso #286: Pidgey nivel 18
+HP: 63
+AT: 37
+DF: 60
+SP: 81
+Caso #287: Poliwhirl nivel 94
+HP: 528
+AT: 274
+DF: 211
+SP: 232
+Caso #288: Goldeen nivel 27
+HP: 150
+AT: 138
+DF: 89
+SP: 67
+Caso #289: Electabuzz nivel 28
+HP: 113
+AT: 159
+DF: 83
+SP: 181
+Caso #290: Pidgeotto nivel 18
+HP: 84
+AT: 21
+DF: 23
+SP: 55
+Caso #291: Spearow nivel 29
+HP: 70
+AT: 186
+DF: 67
+SP: 89
+Caso #292: Weedle nivel 93
+HP: 509
+AT: 272
+DF: 190
+SP: 240
+Caso #293: Primeape nivel 42
+HP: 219
+AT: 233
+DF: 98
+SP: 235
+Caso #294: Slowpoke nivel 82
+HP: 201
+AT: 414
+DF: 447
+SP: 70
+Caso #295: Koffing nivel 2
+HP: 20
+AT: 9
+DF: 15
+SP: 10
+Caso #296: NidoranM nivel 42
+HP: 286
+AT: 197
+DF: 30
+SP: 139
+Caso #297: Farfetch'd nivel 80
+HP: 435
+AT: 264
+DF: 389
+SP: 81
+Caso #298: Weezing nivel 12
+HP: 89
+AT: 27
+DF: 32
+SP: 35
+Caso #299: Sandshrew nivel 81
+HP: 226
+AT: 490
+DF: 428
+SP: 368
+Caso #300: Pidgeotto nivel 61
+HP: 311
+AT: 307
+DF: 289
+SP: 366
+Caso #301: Slowbro nivel 61
+HP: 366
+AT: 306
+DF: 217
+SP: 260
+Caso #302: Jigglypuff nivel 87
+HP: 296
+AT: 262
+DF: 256
+SP: 226
+Caso #303: Doduo nivel 80
+HP: 388
+AT: 464
+DF: 362
+SP: 101
+Caso #304: Onix nivel 14
+HP: 99
+AT: 48
+DF: 76
+SP: 54
+Caso #305: Dragonair nivel 20
+HP: 55
+AT: 69
+DF: 54
+SP: 41
+Caso #306: Poliwag nivel 2
+HP: 20
+AT: 11
+DF: 12
+SP: 15
+Caso #307: Hitmonlee nivel 12
+HP: 76
+AT: 15
+DF: 60
+SP: 69
+Caso #308: Ponyta nivel 20
+HP: 99
+AT: 94
+DF: 57
+SP: 60
+Caso #309: Oddish nivel 10
+HP: 58
+AT: 21
+DF: 62
+SP: 50
+Caso #310: Zubat nivel 42
+HP: 272
+AT: 196
+DF: 84
+SP: 88
+Caso #311: Drowzee nivel 19
+HP: 130
+AT: 64
+DF: 42
+SP: 106
+Caso #312: Jynx nivel 72
+HP: 440
+AT: 277
+DF: 300
+SP: 396
+Caso #313: Kakuna nivel 37
+HP: 174
+AT: 51
+DF: 148
+SP: 68
+Caso #314: Dragonite nivel 34
+HP: 152
+AT: 141
+DF: 64
+SP: 129
+Caso #315: Fearow nivel 42
+HP: 296
+AT: 223
+DF: 217
+SP: 160
+Caso #316: Kadabra nivel 30
+HP: 122
+AT: 149
+DF: 156
+SP: 147
+Caso #317: Magnemite nivel 62
+HP: 418
+AT: 349
+DF: 250
+SP: 302
+Caso #318: Venonat nivel 73
+HP: 225
+AT: 241
+DF: 327
+SP: 415
+Caso #319: Nidoking nivel 1
+HP: 15
+AT: 11
+DF: 6
+SP: 5
+Caso #320: Lickitung nivel 11
+HP: 63
+AT: 27
+DF: 48
+SP: 36
+Caso #321: Pikachu nivel 80
+HP: 170
+AT: 300
+DF: 164
+SP: 378
+Caso #322: Parasect nivel 16
+HP: 51
+AT: 79
+DF: 75
+SP: 35
+Caso #323: Paras nivel 35
+HP: 176
+AT: 74
+DF: 117
+SP: 90
+Caso #324: Exeggcute nivel 18
+HP: 72
+AT: 108
+DF: 25
+SP: 41
+Caso #325: Wartortle nivel 52
+HP: 258
+AT: 240
+DF: 153
+SP: 227
+Caso #326: Sandslash nivel 20
+HP: 140
+AT: 53
+DF: 60
+SP: 22
+Caso #327: Aerodactyl nivel 86
+HP: 583
+AT: 359
+DF: 222
+SP: 108
+Caso #328: Doduo nivel 83
+HP: 367
+AT: 364
+DF: 190
+SP: 476
+Caso #329: Venomoth nivel 43
+HP: 229
+AT: 146
+DF: 120
+SP: 201
+Caso #330: Nidorino nivel 7
+HP: 61
+AT: 21
+DF: 50
+SP: 35
+Caso #331: Moltres nivel 96
+HP: 418
+AT: 420
+DF: 419
+SP: 396
+Caso #332: Tangela nivel 6
+HP: 31
+AT: 24
+DF: 13
+SP: 34
+Caso #333: Pidgeotto nivel 65
+HP: 403
+AT: 178
+DF: 319
+SP: 376
+Caso #334: Exeggutor nivel 3
+HP: 23
+AT: 16
+DF: 9
+SP: 15
+Caso #335: Voltorb nivel 57
+HP: 328
+AT: 220
+DF: 80
+SP: 331
+Caso #336: Gloom nivel 56
+HP: 311
+AT: 67
+DF: 237
+SP: 290
+Caso #337: Parasect nivel 30
+HP: 207
+AT: 137
+DF: 180
+SP: 137
+Caso #338: Jigglypuff nivel 27
+HP: 87
+AT: 37
+DF: 21
+SP: 36
+Caso #339: Vileplume nivel 6
+HP: 40
+AT: 39
+DF: 26
+SP: 38
+Caso #340: Oddish nivel 82
+HP: 523
+AT: 472
+DF: 364
+SP: 204
+Caso #341: Marowak nivel 81
+HP: 453
+AT: 160
+DF: 40
+SP: 212
+Caso #342: Aerodactyl nivel 94
+HP: 300
+AT: 522
+DF: 136
+SP: 158
+Caso #343: Poliwag nivel 46
+HP: 158
+AT: 234
+DF: 226
+SP: 146
+Caso #344: Hitmonchan nivel 47
+HP: 181
+AT: 256
+DF: 135
+SP: 150
+Caso #345: Kadabra nivel 20
+HP: 87
+AT: 128
+DF: 61
+SP: 53
+Caso #346: Exeggutor nivel 41
+HP: 164
+AT: 155
+DF: 91
+SP: 222
+Caso #347: Victreebel nivel 63
+HP: 391
+AT: 61
+DF: 358
+SP: 392
+Caso #348: Magmar nivel 53
+HP: 150
+AT: 85
+DF: 118
+SP: 247
+Caso #349: Arcanine nivel 50
+HP: 310
+AT: 183
+DF: 90
+SP: 102
+Caso #350: Electabuzz nivel 78
+HP: 328
+AT: 430
+DF: 131
+SP: 133
+Caso #351: Primeape nivel 95
+HP: 387
+AT: 245
+DF: 318
+SP: 166
+Caso #352: Nidorina nivel 41
+HP: 152
+AT: 189
+DF: 180
+SP: 63
+Caso #353: Arbok nivel 59
+HP: 219
+AT: 66
+DF: 77
+SP: 374
+Caso #354: Starmie nivel 66
+HP: 448
+AT: 261
+DF: 322
+SP: 306
+Caso #355: Dodrio nivel 72
+HP: 190
+AT: 81
+DF: 134
+SP: 261
+Caso #356: Gloom nivel 8
+HP: 40
+AT: 28
+DF: 35
+SP: 35
+Caso #357: Golbat nivel 62
+HP: 306
+AT: 102
+DF: 201
+SP: 275
+Caso #358: Squirtle nivel 13
+HP: 82
+AT: 38
+DF: 68
+SP: 26
+Caso #359: Charmeleon nivel 19
+HP: 109
+AT: 72
+DF: 101
+SP: 106
+Caso #360: Zapdos nivel 26
+HP: 189
+AT: 153
+DF: 103
+SP: 96
+Caso #361: Flareon nivel 42
+HP: 267
+AT: 146
+DF: 70
+SP: 113
+Caso #362: Gloom nivel 13
+HP: 54
+AT: 45
+DF: 70
+SP: 19
+Caso #363: Poliwrath nivel 25
+HP: 179
+AT: 74
+DF: 111
+SP: 94
+Caso #364: Drowzee nivel 77
+HP: 194
+AT: 175
+DF: 217
+SP: 320
+Caso #365: Moltres nivel 78
+HP: 348
+AT: 141
+DF: 316
+SP: 128
+Caso #366: Pikachu nivel 64
+HP: 388
+AT: 326
+DF: 137
+SP: 222
+Caso #367: Ekans nivel 64
+HP: 215
+AT: 325
+DF: 156
+SP: 125
+Caso #368: Clefairy nivel 23
+HP: 62
+AT: 16
+DF: 117
+SP: 34
+Caso #369: Abra nivel 9
+HP: 66
+AT: 18
+DF: 50
+SP: 43
+Caso #370: Venonat nivel 17
+HP: 85
+AT: 105
+DF: 89
+SP: 70
+Caso #371: Kangaskhan nivel 20
+HP: 67
+AT: 49
+DF: 32
+SP: 113
+Caso #372: Dragonite nivel 54
+HP: 192
+AT: 107
+DF: 84
+SP: 229
+Caso #373: Dodrio nivel 84
+HP: 277
+AT: 527
+DF: 320
+SP: 453
+Caso #374: Jigglypuff nivel 10
+HP: 40
+AT: 27
+DF: 60
+SP: 49
+Caso #375: Kabuto nivel 53
+HP: 191
+AT: 226
+DF: 183
+SP: 38
+Caso #376: Muk nivel 9
+HP: 46
+AT: 26
+DF: 53
+SP: 32
+Caso #377: Charmeleon nivel 86
+HP: 508
+AT: 405
+DF: 350
+SP: 371
+Caso #378: Caterpie nivel 86
+HP: 618
+AT: 83
+DF: 187
+SP: 463
+Caso #379: Wigglytuff nivel 30
+HP: 140
+AT: 75
+DF: 187
+SP: 34
+Caso #380: Weedle nivel 93
+HP: 542
+AT: 170
+DF: 268
+SP: 159
+Caso #381: Golduck nivel 98
+HP: 192
+AT: 171
+DF: 170
+SP: 342
+Caso #382: Voltorb nivel 95
+HP: 384
+AT: 535
+DF: 111
+SP: 263
+Caso #383: Jolteon nivel 66
+HP: 236
+AT: 125
+DF: 334
+SP: 411
+Caso #384: Omastar nivel 14
+HP: 47
+AT: 77
+DF: 55
+SP: 45
+Caso #385: Caterpie nivel 67
+HP: 229
+AT: 191
+DF: 82
+SP: 91
+Caso #386: Electabuzz nivel 91
+HP: 376
+AT: 456
+DF: 489
+SP: 155
+Caso #387: Rattata nivel 38
+HP: 251
+AT: 98
+DF: 142
+SP: 197
+Caso #388: Fearow nivel 83
+HP: 301
+AT: 283
+DF: 190
+SP: 165
+Caso #389: Sandslash nivel 58
+HP: 139
+AT: 68
+DF: 263
+SP: 183
+Caso #390: Rhydon nivel 91
+HP: 421
+AT: 180
+DF: 266
+SP: 299
+Caso #391: Kangaskhan nivel 73
+HP: 230
+AT: 269
+DF: 257
+SP: 273
+Caso #392: Growlithe nivel 20
+HP: 95
+AT: 54
+DF: 94
+SP: 22
+Caso #393: Doduo nivel 7
+HP: 55
+AT: 16
+DF: 39
+SP: 39
+Caso #394: Starmie nivel 5
+HP: 33
+AT: 7
+DF: 24
+SP: 24
+Caso #395: Mew nivel 89
+HP: 341
+AT: 304
+DF: 472
+SP: 414
+Caso #396: Seaking nivel 69
+HP: 283
+AT: 105
+DF: 236
+SP: 202
+Caso #397: Horsea nivel 41
+HP: 136
+AT: 145
+DF: 182
+SP: 129
+Caso #398: Farfetch'd nivel 44
+HP: 274
+AT: 65
+DF: 87
+SP: 183
+Caso #399: Scyther nivel 89
+HP: 405
+AT: 368
+DF: 182
+SP: 263
+Caso #400: Vulpix nivel 48
+HP: 257
+AT: 108
+DF: 262
+SP: 290
+Caso #401: Golduck nivel 5
+HP: 29
+AT: 29
+DF: 12
+SP: 14
+Caso #402: Arbok nivel 5
+HP: 25
+AT: 23
+DF: 20
+SP: 20
+Caso #403: Electrode nivel 33
+HP: 159
+AT: 120
+DF: 56
+SP: 94
+Caso #404: Psyduck nivel 71
+HP: 196
+AT: 316
+DF: 227
+SP: 312
+Caso #405: Doduo nivel 98
+HP: 664
+AT: 83
+DF: 266
+SP: 157
+Caso #406: Nidorino nivel 88
+HP: 382
+AT: 325
+DF: 176
+SP: 171
+Caso #407: Raichu nivel 68
+HP: 347
+AT: 173
+DF: 168
+SP: 282
+Caso #408: Psyduck nivel 50
+HP: 265
+AT: 145
+DF: 254
+SP: 258
+Caso #409: Voltorb nivel 24
+HP: 163
+AT: 33
+DF: 87
+SP: 71
+Caso #410: Exeggcute nivel 19
+HP: 97
+AT: 65
+DF: 69
+SP: 67
+Caso #411: Pidgeot nivel 78
+HP: 274
+AT: 469
+DF: 158
+SP: 318
+Caso #412: Fearow nivel 24
+HP: 87
+AT: 53
+DF: 42
+SP: 97
+Caso #413: Meowth nivel 5
+HP: 25
+AT: 35
+DF: 15
+SP: 20
+Caso #414: Marowak nivel 39
+HP: 197
+AT: 236
+DF: 188
+SP: 88
+Caso #415: Caterpie nivel 40
+HP: 175
+AT: 248
+DF: 237
+SP: 218
+Caso #416: Nidorina nivel 56
+HP: 221
+AT: 291
+DF: 348
+SP: 206
+Caso #417: Venonat nivel 54
+HP: 332
+AT: 203
+DF: 333
+SP: 208
+Caso #418: Fearow nivel 79
+HP: 515
+AT: 381
+DF: 176
+SP: 442
+Caso #419: Arbok nivel 87
+HP: 383
+AT: 559
+DF: 327
+SP: 131
+Caso #420: Horsea nivel 36
+HP: 252
+AT: 155
+DF: 135
+SP: 37
+Caso #421: Arbok nivel 22
+HP: 59
+AT: 55
+DF: 64
+SP: 48
+Caso #422: Wartortle nivel 94
+HP: 549
+AT: 139
+DF: 477
+SP: 324
+Caso #423: Butterfree nivel 6
+HP: 37
+AT: 19
+DF: 33
+SP: 26
+Caso #424: Dewgong nivel 46
+HP: 141
+AT: 260
+DF: 148
+SP: 106
+Caso #425: Venomoth nivel 82
+HP: 469
+AT: 173
+DF: 368
+SP: 445
+Caso #426: Dratini nivel 47
+HP: 249
+AT: 182
+DF: 252
+SP: 212
+Caso #427: Arcanine nivel 24
+HP: 125
+AT: 56
+DF: 80
+SP: 46
+Caso #428: Venusaur nivel 83
+HP: 458
+AT: 312
+DF: 239
+SP: 136
+Caso #429: Oddish nivel 48
+HP: 203
+AT: 194
+DF: 97
+SP: 211
+Caso #430: Ditto nivel 60
+HP: 283
+AT: 156
+DF: 332
+SP: 351
+Caso #431: Magikarp nivel 22
+HP: 59
+AT: 123
+DF: 44
+SP: 110
+Caso #432: Jolteon nivel 46
+HP: 231
+AT: 112
+DF: 186
+SP: 202
+Caso #433: Doduo nivel 20
+HP: 126
+AT: 64
+DF: 95
+SP: 100
+Caso #434: Sandshrew nivel 94
+HP: 461
+AT: 453
+DF: 373
+SP: 537
+Caso #435: Grimer nivel 26
+HP: 155
+AT: 66
+DF: 57
+SP: 53
+Caso #436: Mew nivel 65
+HP: 183
+AT: 219
+DF: 403
+SP: 92
+Caso #437: Gyarados nivel 50
+HP: 135
+AT: 223
+DF: 272
+SP: 66
+Caso #438: Diglett nivel 99
+HP: 512
+AT: 467
+DF: 527
+SP: 610
+Caso #439: Psyduck nivel 26
+HP: 145
+AT: 105
+DF: 87
+SP: 120
+Caso #440: Exeggcute nivel 59
+HP: 176
+AT: 228
+DF: 229
+SP: 267
+Caso #441: Machamp nivel 39
+HP: 187
+AT: 133
+DF: 144
+SP: 235
+Caso #442: Beedrill nivel 71
+HP: 246
+AT: 145
+DF: 101
+SP: 136
+Caso #443: Lapras nivel 59
+HP: 424
+AT: 320
+DF: 237
+SP: 345
+Caso #444: Zapdos nivel 45
+HP: 195
+AT: 252
+DF: 150
+SP: 194
+Caso #445: Golbat nivel 19
+HP: 63
+AT: 102
+DF: 83
+SP: 48
+Caso #446: Magnemite nivel 23
+HP: 82
+AT: 44
+DF: 133
+SP: 80
+Caso #447: NidoranM nivel 57
+HP: 182
+AT: 160
+DF: 283
+SP: 186
+Caso #448: Poliwag nivel 45
+HP: 209
+AT: 228
+DF: 75
+SP: 141
+Caso #449: Kadabra nivel 94
+HP: 686
+AT: 201
+DF: 517
+SP: 557
+Caso #450: Koffing nivel 53
+HP: 349
+AT: 99
+DF: 83
+SP: 280
+Caso #451: Butterfree nivel 23
+HP: 130
+AT: 40
+DF: 118
+SP: 126
+Caso #452: Seadra nivel 32
+HP: 167
+AT: 127
+DF: 122
+SP: 40
+Caso #453: Pidgeot nivel 56
+HP: 387
+AT: 174
+DF: 62
+SP: 268
+Caso #454: Farfetch'd nivel 38
+HP: 144
+AT: 106
+DF: 128
+SP: 172
+Caso #455: Sandslash nivel 79
+HP: 559
+AT: 379
+DF: 245
+SP: 248
+Caso #456: Kabuto nivel 19
+HP: 113
+AT: 37
+DF: 43
+SP: 39
+Caso #457: Omastar nivel 22
+HP: 133
+AT: 112
+DF: 79
+SP: 86
+Caso #458: Moltres nivel 46
+HP: 179
+AT: 63
+DF: 160
+SP: 167
+Caso #459: Seaking nivel 16
+HP: 97
+AT: 48
+DF: 28
+SP: 67
+Caso #460: Pidgeotto nivel 31
+HP: 198
+AT: 37
+DF: 59
+SP: 85
+Caso #461: Sandslash nivel 5
+HP: 33
+AT: 27
+DF: 31
+SP: 29
+Caso #462: Fearow nivel 8
+HP: 33
+AT: 48
+DF: 27
+SP: 33
+Caso #463: Paras nivel 67
+HP: 374
+AT: 247
+DF: 207
+SP: 376
+Caso #464: Dragonite nivel 33
+HP: 89
+AT: 151
+DF: 89
+SP: 54
+Caso #465: Vaporeon nivel 68
+HP: 452
+AT: 167
+DF: 266
+SP: 126
+Caso #466: Kabuto nivel 78
+HP: 570
+AT: 384
+DF: 192
+SP: 480
+Caso #467: Rattata nivel 17
+HP: 89
+AT: 78
+DF: 34
+SP: 54
+Caso #468: Voltorb nivel 94
+HP: 324
+AT: 169
+DF: 556
+SP: 450
+Caso #469: Gyarados nivel 73
+HP: 487
+AT: 123
+DF: 288
+SP: 400
+Caso #470: Pidgeot nivel 24
+HP: 123
+AT: 120
+DF: 59
+SP: 105
+Caso #471: Growlithe nivel 9
+HP: 57
+AT: 11
+DF: 51
+SP: 47
+Caso #472: Nidoqueen nivel 85
+HP: 446
+AT: 313
+DF: 387
+SP: 109
+Caso #473: Slowbro nivel 70
+HP: 436
+AT: 164
+DF: 118
+SP: 281
+Caso #474: NidoranM nivel 98
+HP: 243
+AT: 444
+DF: 328
+SP: 369
+Caso #475: Tentacool nivel 11
+HP: 75
+AT: 33
+DF: 68
+SP: 66
+Caso #476: Tauros nivel 71
+HP: 357
+AT: 90
+DF: 153
+SP: 122
+Caso #477: Abra nivel 39
+HP: 218
+AT: 237
+DF: 188
+SP: 110
+Caso #478: NidoranH nivel 43
+HP: 176
+AT: 105
+DF: 139
+SP: 197
+Caso #479: Metapod nivel 7
+HP: 46
+AT: 44
+DF: 23
+SP: 20
+Caso #480: Ekans nivel 89
+HP: 547
+AT: 382
+DF: 81
+SP: 394
+Caso #481: Bellsprout nivel 61
+HP: 362
+AT: 285
+DF: 105
+SP: 69
+Caso #482: NidoranM nivel 87
+HP: 443
+AT: 408
+DF: 374
+SP: 286
+Caso #483: Chansey nivel 100
+HP: 294
+AT: 184
+DF: 139
+SP: 170
+Caso #484: Weedle nivel 53
+HP: 136
+AT: 278
+DF: 149
+SP: 67
+Caso #485: Jynx nivel 22
+HP: 89
+AT: 96
+DF: 52
+SP: 79
+Caso #486: Hypno nivel 76
+HP: 293
+AT: 285
+DF: 187
+SP: 120
+Caso #487: Jigglypuff nivel 50
+HP: 334
+AT: 198
+DF: 146
+SP: 250
+Caso #488: Moltres nivel 35
+HP: 127
+AT: 158
+DF: 86
+SP: 170
+Caso #489: Diglett nivel 41
+HP: 162
+AT: 80
+DF: 65
+SP: 114
+Caso #490: Dugtrio nivel 51
+HP: 114
+AT: 310
+DF: 193
+SP: 190
+Caso #491: Chansey nivel 16
+HP: 72
+AT: 20
+DF: 44
+SP: 92
+Caso #492: Ekans nivel 93
+HP: 368
+AT: 526
+DF: 393
+SP: 196
+Caso #493: Mankey nivel 59
+HP: 152
+AT: 153
+DF: 234
+SP: 155
+Caso #494: Machop nivel 63
+HP: 423
+AT: 291
+DF: 80
+SP: 400
+Caso #495: Jynx nivel 76
+HP: 480
+AT: 167
+DF: 307
+SP: 151
+Caso #496: Vulpix nivel 20
+HP: 64
+AT: 107
+DF: 43
+SP: 78
+Caso #497: Venomoth nivel 14
+HP: 85
+AT: 22
+DF: 21
+SP: 50
+Caso #498: Dratini nivel 77
+HP: 252
+AT: 119
+DF: 246
+SP: 371
+Caso #499: Machop nivel 98
+HP: 580
+AT: 228
+DF: 185
+SP: 351
+Caso #500: Snorlax nivel 26
+HP: 128
+AT: 97
+DF: 104
+SP: 52
+Caso #501: Gastly nivel 54
+HP: 302
+AT: 277
+DF: 109
+SP: 303
+Caso #502: Pidgeotto nivel 35
+HP: 120
+AT: 72
+DF: 196
+SP: 45
+Caso #503: Exeggutor nivel 42
+HP: 124
+AT: 151
+DF: 146
+SP: 148
+Caso #504: Geodude nivel 83
+HP: 379
+AT: 425
+DF: 400
+SP: 323
+Caso #505: Mankey nivel 61
+HP: 260
+AT: 281
+DF: 322
+SP: 177
+Caso #506: Primeape nivel 33
+HP: 100
+AT: 122
+DF: 86
+SP: 154
+Caso #507: Cloyster nivel 74
+HP: 481
+AT: 99
+DF: 147
+SP: 333
+Caso #508: Tentacool nivel 32
+HP: 85
+AT: 34
+DF: 100
+SP: 161
+Caso #509: NidoranH nivel 87
+HP: 518
+AT: 456
+DF: 272
+SP: 502
+Caso #510: Eevee nivel 41
+HP: 178
+AT: 91
+DF: 171
+SP: 191
+Caso #511: Voltorb nivel 75
+HP: 217
+AT: 114
+DF: 454
+SP: 288
+Caso #512: Doduo nivel 4
+HP: 30
+AT: 10
+DF: 8
+SP: 21
+Caso #513: Hypno nivel 89
+HP: 285
+AT: 295
+DF: 196
+SP: 478
+Caso #514: Shellder nivel 28
+HP: 125
+AT: 36
+DF: 52
+SP: 173
+Caso #515: Moltres nivel 63
+HP: 479
+AT: 176
+DF: 389
+SP: 183
+Caso #516: Charmander nivel 13
+HP: 97
+AT: 41
+DF: 73
+SP: 25
+Caso #517: Gloom nivel 88
+HP: 336
+AT: 405
+DF: 165
+SP: 158
+Caso #518: Jolteon nivel 77
+HP: 447
+AT: 298
+DF: 148
+SP: 326
+Caso #519: Seaking nivel 54
+HP: 227
+AT: 170
+DF: 215
+SP: 92
+Caso #520: Poliwhirl nivel 40
+HP: 170
+AT: 187
+DF: 207
+SP: 101
+Caso #521: Starmie nivel 12
+HP: 74
+AT: 78
+DF: 50
+SP: 34
+Caso #522: Slowbro nivel 17
+HP: 130
+AT: 35
+DF: 91
+SP: 90
+Caso #523: Scyther nivel 61
+HP: 317
+AT: 189
+DF: 335
+SP: 312
+Caso #524: Kingler nivel 55
+HP: 412
+AT: 222
+DF: 172
+SP: 223
+Caso #525: Eevee nivel 30
+HP: 77
+AT: 120
+DF: 154
+SP: 119
+Caso #526: Mewtwo nivel 21
+HP: 130
+AT: 49
+DF: 94
+SP: 99
+Caso #527: Machop nivel 10
+HP: 49
+AT: 19
+DF: 56
+SP: 43
+Caso #528: Doduo nivel 26
+HP: 147
+AT: 139
+DF: 106
+SP: 30
+Caso #529: Eevee nivel 41
+HP: 128
+AT: 236
+DF: 90
+SP: 98
+Caso #530: Squirtle nivel 38
+HP: 182
+AT: 134
+DF: 148
+SP: 256
+Caso #531: Vaporeon nivel 91
+HP: 245
+AT: 362
+DF: 397
+SP: 345
+Caso #532: Machop nivel 53
+HP: 272
+AT: 293
+DF: 298
+SP: 252
+Caso #533: Venomoth nivel 57
+HP: 242
+AT: 123
+DF: 183
+SP: 226
+Caso #534: Tentacruel nivel 23
+HP: 154
+AT: 41
+DF: 73
+SP: 89
+Caso #535: NidoranM nivel 73
+HP: 133
+AT: 325
+DF: 191
+SP: 200
+Caso #536: Graveler nivel 57
+HP: 346
+AT: 265
+DF: 279
+SP: 235
+Caso #537: Arcanine nivel 41
+HP: 240
+AT: 137
+DF: 102
+SP: 205
+Caso #538: Doduo nivel 76
+HP: 313
+AT: 416
+DF: 435
+SP: 96
+Caso #539: Dodrio nivel 9
+HP: 69
+AT: 54
+DF: 19
+SP: 31
+Caso #540: Slowpoke nivel 67
+HP: 324
+AT: 275
+DF: 132
+SP: 164
+Caso #541: Poliwrath nivel 93
+HP: 438
+AT: 424
+DF: 398
+SP: 432
+Caso #542: Farfetch'd nivel 58
+HP: 182
+AT: 331
+DF: 143
+SP: 181
+Caso #543: Wigglytuff nivel 35
+HP: 219
+AT: 213
+DF: 47
+SP: 51
+Caso #544: Hitmonchan nivel 87
+HP: 571
+AT: 206
+DF: 221
+SP: 413
+Caso #545: Nidorina nivel 70
+HP: 297
+AT: 189
+DF: 261
+SP: 463
+Caso #546: Fearow nivel 91
+HP: 592
+AT: 150
+DF: 235
+SP: 197
+Caso #547: Krabby nivel 77
+HP: 505
+AT: 474
+DF: 228
+SP: 166
+Caso #548: Kingler nivel 39
+HP: 288
+AT: 118
+DF: 200
+SP: 232
+Caso #549: Hypno nivel 3
+HP: 26
+AT: 23
+DF: 21
+SP: 21
+Caso #550: Pidgey nivel 79
+HP: 458
+AT: 363
+DF: 172
+SP: 256
+Caso #551: Victreebel nivel 6
+HP: 40
+AT: 17
+DF: 40
+SP: 25
+Caso #552: Vileplume nivel 100
+HP: 373
+AT: 417
+DF: 180
+SP: 197
+Caso #553: Farfetch'd nivel 1
+HP: 14
+AT: 6
+DF: 7
+SP: 9
+Caso #554: Starmie nivel 16
+HP: 57
+AT: 82
+DF: 31
+SP: 56
+Caso #555: Magmar nivel 96
+HP: 133
+AT: 214
+DF: 418
+SP: 212
+Caso #556: Rapidash nivel 10
+HP: 62
+AT: 41
+DF: 33
+SP: 59
+Caso #557: Hitmonlee nivel 74
+HP: 471
+AT: 194
+DF: 285
+SP: 363
+Caso #558: Sandshrew nivel 80
+HP: 440
+AT: 357
+DF: 459
+SP: 140
+Caso #559: Zubat nivel 91
+HP: 194
+AT: 571
+DF: 194
+SP: 409
+Caso #560: Diglett nivel 93
+HP: 375
+AT: 543
+DF: 398
+SP: 414
+Caso #561: Exeggcute nivel 10
+HP: 38
+AT: 55
+DF: 21
+SP: 23
+Caso #562: NidoranH nivel 49
+HP: 153
+AT: 100
+DF: 96
+SP: 155
+Caso #563: Porygon nivel 96
+HP: 513
+AT: 415
+DF: 517
+SP: 520
+Caso #564: Poliwrath nivel 6
+HP: 42
+AT: 16
+DF: 24
+SP: 20
+Caso #565: Kangaskhan nivel 18
+HP: 46
+AT: 35
+DF: 40
+SP: 88
+Caso #566: Scyther nivel 29
+HP: 197
+AT: 57
+DF: 96
+SP: 168
+Caso #567: Horsea nivel 96
+HP: 542
+AT: 441
+DF: 509
+SP: 290
+Caso #568: Sandslash nivel 26
+HP: 87
+AT: 61
+DF: 85
+SP: 129
+Caso #569: Raichu nivel 47
+HP: 212
+AT: 126
+DF: 282
+SP: 166
+Caso #570: Weepinbell nivel 94
+HP: 661
+AT: 429
+DF: 448
+SP: 483
+Caso #571: Exeggutor nivel 29
+HP: 172
+AT: 122
+DF: 173
+SP: 133
+Caso #572: Muk nivel 29
+HP: 165
+AT: 135
+DF: 108
+SP: 138
+Caso #573: Vulpix nivel 100
+HP: 716
+AT: 462
+DF: 350
+SP: 486
+Caso #574: Magikarp nivel 8
+HP: 39
+AT: 34
+DF: 24
+SP: 48
+Caso #575: Vulpix nivel 74
+HP: 480
+AT: 396
+DF: 335
+SP: 99
+Caso #576: Exeggutor nivel 95
+HP: 480
+AT: 304
+DF: 167
+SP: 174
+Caso #577: Metapod nivel 46
+HP: 112
+AT: 238
+DF: 205
+SP: 138
+Caso #578: Farfetch'd nivel 68
+HP: 449
+AT: 352
+DF: 114
+SP: 281
+Caso #579: Pidgey nivel 55
+HP: 122
+AT: 241
+DF: 209
+SP: 314
+Caso #580: Nidoking nivel 8
+HP: 51
+AT: 47
+DF: 29
+SP: 18
+Caso #581: Grimer nivel 43
+HP: 213
+AT: 222
+DF: 66
+SP: 189
+Caso #582: Eevee nivel 29
+HP: 104
+AT: 105
+DF: 41
+SP: 103
+Caso #583: Cloyster nivel 52
+HP: 148
+AT: 258
+DF: 246
+SP: 220
+Caso #584: Tentacruel nivel 43
+HP: 267
+AT: 32
+DF: 201
+SP: 98
+Caso #585: NidoranM nivel 55
+HP: 284
+AT: 277
+DF: 126
+SP: 252
+Caso #586: Rapidash nivel 59
+HP: 231
+AT: 246
+DF: 102
+SP: 149
+Caso #587: Nidoqueen nivel 54
+HP: 225
+AT: 101
+DF: 162
+SP: 296
+Caso #588: Grimer nivel 45
+HP: 202
+AT: 226
+DF: 271
+SP: 82
+Caso #589: Blastoise nivel 81
+HP: 506
+AT: 235
+DF: 245
+SP: 152
+Caso #590: Slowpoke nivel 32
+HP: 222
+AT: 148
+DF: 171
+SP: 65
+Caso #591: Farfetch'd nivel 54
+HP: 138
+AT: 267
+DF: 100
+SP: 176
+Caso #592: Omanyte nivel 9
+HP: 44
+AT: 40
+DF: 62
+SP: 43
+Caso #593: Golbat nivel 34
+HP: 182
+AT: 142
+DF: 47
+SP: 53
+Caso #594: Alakazam nivel 41
+HP: 306
+AT: 249
+DF: 152
+SP: 191
+Caso #595: Ninetales nivel 46
+HP: 194
+AT: 107
+DF: 228
+SP: 100
+Caso #596: Pidgey nivel 68
+HP: 327
+AT: 183
+DF: 237
+SP: 173
+Caso #597: Golem nivel 50
+HP: 233
+AT: 159
+DF: 296
+SP: 156
+Caso #598: Pikachu nivel 52
+HP: 209
+AT: 333
+DF: 264
+SP: 247
+Caso #599: Venomoth nivel 58
+HP: 308
+AT: 237
+DF: 184
+SP: 293
+Caso #600: NidoranM nivel 39
+HP: 230
+AT: 181
+DF: 94
+SP: 65
+Caso #601: Cloyster nivel 96
+HP: 426
+AT: 57
+DF: 196
+SP: 216
+Caso #602: Hypno nivel 17
+HP: 53
+AT: 52
+DF: 97
+SP: 57
+Caso #603: Charmander nivel 33
+HP: 124
+AT: 165
+DF: 41
+SP: 87
+Caso #604: Slowbro nivel 60
+HP: 223
+AT: 169
+DF: 94
+SP: 147
+Caso #605: Kangaskhan nivel 80
+HP: 444
+AT: 358
+DF: 230
+SP: 290
+Caso #606: Krabby nivel 92
+HP: 417
+AT: 148
+DF: 392
+SP: 280
+Caso #607: Nidorino nivel 82
+HP: 204
+AT: 389
+DF: 515
+SP: 289
+Caso #608: Clefairy nivel 39
+HP: 210
+AT: 106
+DF: 81
+SP: 172
+Caso #609: Spearow nivel 88
+HP: 471
+AT: 176
+DF: 413
+SP: 449
+Caso #610: Dodrio nivel 46
+HP: 149
+AT: 117
+DF: 256
+SP: 60
+Caso #611: Eevee nivel 7
+HP: 41
+AT: 33
+DF: 35
+SP: 43
+Caso #612: Ekans nivel 85
+HP: 233
+AT: 461
+DF: 515
+SP: 332
+Caso #613: Zubat nivel 84
+HP: 582
+AT: 376
+DF: 435
+SP: 160
+Caso #614: Nidoking nivel 46
+HP: 255
+AT: 130
+DF: 79
+SP: 206
+Caso #615: Spearow nivel 8
+HP: 60
+AT: 48
+DF: 28
+SP: 48
+Caso #616: Magnemite nivel 54
+HP: 296
+AT: 91
+DF: 196
+SP: 89
+Caso #617: Dragonite nivel 44
+HP: 287
+AT: 289
+DF: 197
+SP: 48
+Caso #618: Nidoking nivel 10
+HP: 49
+AT: 55
+DF: 53
+SP: 40
+Caso #619: Nidoqueen nivel 49
+HP: 302
+AT: 83
+DF: 255
+SP: 257
+Caso #620: Mr.Mime nivel 53
+HP: 266
+AT: 277
+DF: 335
+SP: 320
+Caso #621: Weedle nivel 41
+HP: 181
+AT: 182
+DF: 254
+SP: 210
+Caso #622: Kangaskhan nivel 61
+HP: 195
+AT: 264
+DF: 372
+SP: 166
+Caso #623: Alakazam nivel 64
+HP: 201
+AT: 190
+DF: 120
+SP: 125
+Caso #624: Haunter nivel 1
+HP: 13
+AT: 7
+DF: 9
+SP: 8
+Caso #625: Scyther nivel 65
+HP: 424
+AT: 129
+DF: 279
+SP: 196
+Caso #626: Hypno nivel 73
+HP: 154
+AT: 424
+DF: 113
+SP: 217
+Caso #627: Electrode nivel 63
+HP: 179
+AT: 246
+DF: 92
+SP: 73
+Caso #628: Zubat nivel 87
+HP: 426
+AT: 447
+DF: 297
+SP: 472
+Caso #629: Rapidash nivel 60
+HP: 334
+AT: 169
+DF: 244
+SP: 182
+Caso #630: Jolteon nivel 91
+HP: 596
+AT: 327
+DF: 397
+SP: 125
+Caso #631: Dodrio nivel 54
+HP: 264
+AT: 277
+DF: 207
+SP: 110
+Caso #632: Flareon nivel 28
+HP: 131
+AT: 145
+DF: 75
+SP: 112
+Caso #633: Diglett nivel 29
+HP: 138
+AT: 60
+DF: 155
+SP: 115
+Caso #634: Mew nivel 80
+HP: 525
+AT: 371
+DF: 224
+SP: 425
+Caso #635: Charmander nivel 82
+HP: 126
+AT: 332
+DF: 327
+SP: 411
+Caso #636: Marowak nivel 50
+HP: 309
+AT: 310
+DF: 159
+SP: 99
+Caso #637: Mr.Mime nivel 15
+HP: 57
+AT: 81
+DF: 82
+SP: 43
+Caso #638: Rapidash nivel 28
+HP: 192
+AT: 119
+DF: 121
+SP: 109
+Caso #639: Tangela nivel 81
+HP: 386
+AT: 186
+DF: 484
+SP: 132
+Caso #640: Clefable nivel 60
+HP: 433
+AT: 239
+DF: 378
+SP: 95
+Caso #641: Magikarp nivel 6
+HP: 44
+AT: 24
+DF: 16
+SP: 19
+Caso #642: Kabutops nivel 39
+HP: 189
+AT: 239
+DF: 65
+SP: 51
+Caso #643: Horsea nivel 90
+HP: 528
+AT: 279
+DF: 224
+SP: 414
+Caso #644: Nidoking nivel 14
+HP: 77
+AT: 36
+DF: 52
+SP: 59
+Caso #645: Jynx nivel 6
+HP: 45
+AT: 22
+DF: 28
+SP: 42
+Caso #646: Gloom nivel 88
+HP: 481
+AT: 474
+DF: 294
+SP: 451
+Caso #647: Dragonair nivel 70
+HP: 278
+AT: 306
+DF: 304
+SP: 298
+Caso #648: Sandslash nivel 64
+HP: 401
+AT: 246
+DF: 269
+SP: 247
+Caso #649: Clefairy nivel 91
+HP: 255
+AT: 534
+DF: 188
+SP: 161
+Caso #650: Kabuto nivel 81
+HP: 570
+AT: 259
+DF: 226
+SP: 355
+Caso #651: Nidoqueen nivel 39
+HP: 145
+AT: 40
+DF: 67
+SP: 56
+Caso #652: Omanyte nivel 30
+HP: 195
+AT: 165
+DF: 120
+SP: 182
+Caso #653: Moltres nivel 80
+HP: 352
+AT: 422
+DF: 373
+SP: 429
+Caso #654: Raticate nivel 76
+HP: 467
+AT: 284
+DF: 409
+SP: 228
+Caso #655: Blastoise nivel 28
+HP: 182
+AT: 76
+DF: 58
+SP: 160
+Caso #656: Magnemite nivel 90
+HP: 200
+AT: 302
+DF: 474
+SP: 197
+Caso #657: Sandslash nivel 91
+HP: 251
+AT: 165
+DF: 405
+SP: 192
+Caso #658: Pinsir nivel 28
+HP: 131
+AT: 122
+DF: 186
+SP: 130
+Caso #659: Kangaskhan nivel 13
+HP: 60
+AT: 87
+DF: 60
+SP: 44
+Caso #660: Dratini nivel 91
+HP: 526
+AT: 261
+DF: 541
+SP: 368
+Caso #661: Flareon nivel 38
+HP: 158
+AT: 159
+DF: 178
+SP: 148
+Caso #662: Omanyte nivel 36
+HP: 160
+AT: 87
+DF: 64
+SP: 168
+Caso #663: Mewtwo nivel 98
+HP: 366
+AT: 212
+DF: 420
+SP: 521
+Caso #664: Beedrill nivel 7
+HP: 50
+AT: 37
+DF: 29
+SP: 27
+Caso #665: Golduck nivel 92
+HP: 486
+AT: 110
+DF: 338
+SP: 193
+Caso #666: Charmander nivel 15
+HP: 70
+AT: 92
+DF: 57
+SP: 97
+Caso #667: Venusaur nivel 31
+HP: 153
+AT: 160
+DF: 76
+SP: 186
+Caso #668: Clefairy nivel 35
+HP: 151
+AT: 128
+DF: 199
+SP: 154
+Caso #669: Shellder nivel 31
+HP: 97
+AT: 134
+DF: 57
+SP: 160
+Caso #670: Clefairy nivel 55
+HP: 127
+AT: 98
+DF: 118
+SP: 71
+Caso #671: Horsea nivel 60
+HP: 318
+AT: 94
+DF: 309
+SP: 267
+Caso #672: Ninetales nivel 11
+HP: 73
+AT: 32
+DF: 57
+SP: 25
+Caso #673: Chansey nivel 48
+HP: 215
+AT: 84
+DF: 55
+SP: 46
+Caso #674: Ponyta nivel 76
+HP: 235
+AT: 249
+DF: 145
+SP: 435
+Caso #675: Tangela nivel 82
+HP: 275
+AT: 30
+DF: 378
+SP: 522
+Caso #676: Diglett nivel 92
+HP: 460
+AT: 468
+DF: 112
+SP: 191
+Caso #677: Articuno nivel 82
+HP: 315
+AT: 279
+DF: 383
+SP: 513
+Caso #678: Flareon nivel 60
+HP: 310
+AT: 145
+DF: 358
+SP: 56
+Caso #679: Psyduck nivel 43
+HP: 123
+AT: 248
+DF: 198
+SP: 147
+Caso #680: Horsea nivel 27
+HP: 166
+AT: 127
+DF: 146
+SP: 48
+Caso #681: Slowpoke nivel 1
+HP: 13
+AT: 7
+DF: 8
+SP: 8
+Caso #682: Persian nivel 22
+HP: 125
+AT: 24
+DF: 118
+SP: 116
+Caso #683: Gyarados nivel 36
+HP: 105
+AT: 91
+DF: 164
+SP: 125
+Caso #684: Onix nivel 18
+HP: 81
+AT: 91
+DF: 67
+SP: 101
+Caso #685: Abra nivel 72
+HP: 485
+AT: 241
+DF: 296
+SP: 294
+Caso #686: Rhydon nivel 90
+HP: 358
+AT: 263
+DF: 253
+SP: 391
+Caso #687: Pidgey nivel 50
+HP: 262
+AT: 290
+DF: 88
+SP: 300
+Caso #688: Rhyhorn nivel 61
+HP: 199
+AT: 230
+DF: 309
+SP: 162
+Caso #689: Metapod nivel 88
+HP: 480
+AT: 372
+DF: 368
+SP: 170
+Caso #690: Victreebel nivel 23
+HP: 150
+AT: 26
+DF: 146
+SP: 62
+Caso #691: Lapras nivel 50
+HP: 148
+AT: 263
+DF: 320
+SP: 288
+Caso #692: Meowth nivel 90
+HP: 169
+AT: 151
+DF: 416
+SP: 106
+Caso #693: Primeape nivel 18
+HP: 86
+AT: 26
+DF: 34
+SP: 98
+Caso #694: Exeggcute nivel 16
+HP: 49
+AT: 90
+DF: 70
+SP: 83
+Caso #695: Ditto nivel 96
+HP: 553
+AT: 220
+DF: 353
+SP: 384
+Caso #696: Tauros nivel 69
+HP: 196
+AT: 321
+DF: 100
+SP: 192
+Caso #697: Omastar nivel 2
+HP: 14
+AT: 15
+DF: 11
+SP: 14
+Caso #698: Primeape nivel 87
+HP: 381
+AT: 412
+DF: 189
+SP: 469
+Caso #699: Omanyte nivel 42
+HP: 180
+AT: 58
+DF: 231
+SP: 210
+Caso #700: Machoke nivel 71
+HP: 414
+AT: 410
+DF: 332
+SP: 74
+Caso #701: Wigglytuff nivel 48
+HP: 220
+AT: 203
+DF: 45
+SP: 217
+Caso #702: Oddish nivel 14
+HP: 66
+AT: 25
+DF: 64
+SP: 70
+Caso #703: Omanyte nivel 63
+HP: 325
+AT: 287
+DF: 62
+SP: 218
+Caso #704: Pikachu nivel 59
+HP: 252
+AT: 157
+DF: 340
+SP: 385
+Caso #705: Victreebel nivel 81
+HP: 227
+AT: 117
+DF: 430
+SP: 300
+Caso #706: Chansey nivel 72
+HP: 242
+AT: 137
+DF: 298
+SP: 105
+Caso #707: Victreebel nivel 77
+HP: 349
+AT: 473
+DF: 300
+SP: 127
+Caso #708: Golbat nivel 15
+HP: 107
+AT: 35
+DF: 39
+SP: 38
+Caso #709: Ditto nivel 58
+HP: 269
+AT: 297
+DF: 193
+SP: 90
+Caso #710: Spearow nivel 54
+HP: 246
+AT: 194
+DF: 98
+SP: 107
+Caso #711: Exeggcute nivel 24
+HP: 154
+AT: 141
+DF: 147
+SP: 125
+Caso #712: Poliwhirl nivel 57
+HP: 158
+AT: 133
+DF: 241
+SP: 52
+Caso #713: Caterpie nivel 71
+HP: 149
+AT: 329
+DF: 342
+SP: 139
+Caso #714: Raichu nivel 74
+HP: 496
+AT: 387
+DF: 318
+SP: 405
+Caso #715: Kabuto nivel 78
+HP: 495
+AT: 328
+DF: 327
+SP: 130
+Caso #716: Seadra nivel 83
+HP: 313
+AT: 335
+DF: 473
+SP: 348
+Caso #717: Kabutops nivel 32
+HP: 241
+AT: 189
+DF: 129
+SP: 100
+Caso #718: Tentacruel nivel 62
+HP: 211
+AT: 162
+DF: 326
+SP: 299
+Caso #719: Aerodactyl nivel 12
+HP: 96
+AT: 49
+DF: 22
+SP: 38
+Caso #720: Kangaskhan nivel 29
+HP: 201
+AT: 59
+DF: 184
+SP: 44
+Caso #721: Slowpoke nivel 29
+HP: 190
+AT: 102
+DF: 92
+SP: 111
+Caso #722: Nidoqueen nivel 99
+HP: 233
+AT: 197
+DF: 207
+SP: 573
+Caso #723: Raticate nivel 46
+HP: 226
+AT: 81
+DF: 84
+SP: 221
+Caso #724: Poliwrath nivel 55
+HP: 348
+AT: 334
+DF: 163
+SP: 188
+Caso #725: Tangela nivel 50
+HP: 210
+AT: 290
+DF: 213
+SP: 183
+Caso #726: Shellder nivel 88
+HP: 564
+AT: 186
+DF: 235
+SP: 204
+Caso #727: Electrode nivel 87
+HP: 499
+AT: 277
+DF: 251
+SP: 561
+Caso #728: Raichu nivel 100
+HP: 230
+AT: 470
+DF: 403
+SP: 357
+Caso #729: Charmander nivel 33
+HP: 233
+AT: 105
+DF: 51
+SP: 73
+Caso #730: Fearow nivel 37
+HP: 222
+AT: 203
+DF: 184
+SP: 151
+Caso #731: Jolteon nivel 88
+HP: 320
+AT: 456
+DF: 381
+SP: 497
+Caso #732: Growlithe nivel 98
+HP: 550
+AT: 250
+DF: 359
+SP: 353
+Caso #733: Pidgeot nivel 5
+HP: 36
+AT: 20
+DF: 27
+SP: 31
+Caso #734: Machamp nivel 14
+HP: 99
+AT: 46
+DF: 81
+SP: 15
+Caso #735: Ditto nivel 10
+HP: 78
+AT: 57
+DF: 28
+SP: 36
+Caso #736: Charmeleon nivel 37
+HP: 178
+AT: 116
+DF: 126
+SP: 202
+Caso #737: Moltres nivel 20
+HP: 126
+AT: 89
+DF: 49
+SP: 111
+Caso #738: Pinsir nivel 48
+HP: 123
+AT: 158
+DF: 234
+SP: 210
+Caso #739: Zapdos nivel 76
+HP: 376
+AT: 99
+DF: 195
+SP: 149
+Caso #740: Gengar nivel 8
+HP: 27
+AT: 12
+DF: 22
+SP: 28
+Caso #741: Victreebel nivel 53
+HP: 322
+AT: 239
+DF: 122
+SP: 66
+Caso #742: Ponyta nivel 60
+HP: 149
+AT: 335
+DF: 334
+SP: 227
+Caso #743: Dugtrio nivel 57
+HP: 140
+AT: 318
+DF: 229
+SP: 274
+Caso #744: Mankey nivel 90
+HP: 569
+AT: 295
+DF: 520
+SP: 525
+Caso #745: Magneton nivel 51
+HP: 193
+AT: 225
+DF: 235
+SP: 251
+Caso #746: Kingler nivel 35
+HP: 224
+AT: 216
+DF: 231
+SP: 170
+Caso #747: Moltres nivel 91
+HP: 345
+AT: 496
+DF: 301
+SP: 227
+Caso #748: Ditto nivel 52
+HP: 97
+AT: 97
+DF: 159
+SP: 138
+Caso #749: NidoranH nivel 25
+HP: 141
+AT: 83
+DF: 127
+SP: 103
+Caso #750: Eevee nivel 90
+HP: 359
+AT: 522
+DF: 150
+SP: 191
+Caso #751: Sandshrew nivel 85
+HP: 412
+AT: 494
+DF: 484
+SP: 136
+Caso #752: Omastar nivel 100
+HP: 481
+AT: 152
+DF: 467
+SP: 216
+Caso #753: Vileplume nivel 14
+HP: 102
+AT: 79
+DF: 77
+SP: 31
+Caso #754: Haunter nivel 33
+HP: 230
+AT: 47
+DF: 212
+SP: 84
+Caso #755: Slowbro nivel 82
+HP: 541
+AT: 356
+DF: 111
+SP: 147
+Caso #756: Caterpie nivel 27
+HP: 167
+AT: 148
+DF: 101
+SP: 119
+Caso #757: Chansey nivel 29
+HP: 202
+AT: 164
+DF: 132
+SP: 157
+Caso #758: Tentacruel nivel 88
+HP: 220
+AT: 422
+DF: 564
+SP: 233
+Caso #759: Paras nivel 10
+HP: 26
+AT: 21
+DF: 47
+SP: 27
+Caso #760: Golduck nivel 12
+HP: 55
+AT: 48
+DF: 24
+SP: 35
+Caso #761: Ekans nivel 7
+HP: 44
+AT: 32
+DF: 26
+SP: 30
+Caso #762: Vaporeon nivel 69
+HP: 248
+AT: 334
+DF: 301
+SP: 334
+Caso #763: Nidoking nivel 46
+HP: 105
+AT: 247
+DF: 136
+SP: 208
+Caso #764: Gloom nivel 69
+HP: 499
+AT: 206
+DF: 393
+SP: 178
+Caso #765: Dragonair nivel 11
+HP: 66
+AT: 70
+DF: 63
+SP: 72
+Caso #766: Alakazam nivel 11
+HP: 62
+AT: 33
+DF: 25
+SP: 31
+Caso #767: Rattata nivel 21
+HP: 119
+AT: 96
+DF: 71
+SP: 131
+Caso #768: Machamp nivel 31
+HP: 143
+AT: 51
+DF: 121
+SP: 68
+Caso #769: Ponyta nivel 73
+HP: 276
+AT: 386
+DF: 86
+SP: 301
+Caso #770: Vaporeon nivel 60
+HP: 385
+AT: 174
+DF: 326
+SP: 112
+Caso #771: Ninetales nivel 96
+HP: 724
+AT: 578
+DF: 568
+SP: 534
+Caso #772: Voltorb nivel 33
+HP: 129
+AT: 81
+DF: 182
+SP: 118
+Caso #773: Magneton nivel 66
+HP: 237
+AT: 323
+DF: 242
+SP: 393
+Caso #774: Growlithe nivel 64
+HP: 323
+AT: 329
+DF: 326
+SP: 266
+Caso #775: Persian nivel 46
+HP: 122
+AT: 159
+DF: 279
+SP: 287
+Caso #776: Psyduck nivel 45
+HP: 273
+AT: 242
+DF: 260
+SP: 173
+Caso #777: Cloyster nivel 82
+HP: 372
+AT: 183
+DF: 98
+SP: 367
+Caso #778: Wigglytuff nivel 93
+HP: 536
+AT: 115
+DF: 271
+SP: 179
+Caso #779: Porygon nivel 44
+HP: 123
+AT: 117
+DF: 160
+SP: 216
+Caso #780: Beedrill nivel 16
+HP: 54
+AT: 45
+DF: 50
+SP: 41
+Caso #781: Onix nivel 26
+HP: 96
+AT: 125
+DF: 120
+SP: 142
+Caso #782: Weepinbell nivel 44
+HP: 232
+AT: 115
+DF: 263
+SP: 95
+Caso #783: Doduo nivel 16
+HP: 109
+AT: 58
+DF: 92
+SP: 37
+Caso #784: Beedrill nivel 11
+HP: 38
+AT: 48
+DF: 53
+SP: 28
+Caso #785: Charizard nivel 76
+HP: 407
+AT: 336
+DF: 293
+SP: 124
+Caso #786: Cloyster nivel 42
+HP: 135
+AT: 103
+DF: 71
+SP: 144
+Caso #787: Victreebel nivel 68
+HP: 440
+AT: 340
+DF: 403
+SP: 95
+Caso #788: Clefable nivel 1
+HP: 15
+AT: 6
+DF: 7
+SP: 9
+Caso #789: Muk nivel 97
+HP: 645
+AT: 216
+DF: 301
+SP: 511
+Caso #790: Ditto nivel 63
+HP: 293
+AT: 142
+DF: 131
+SP: 51
+Caso #791: Marowak nivel 48
+HP: 165
+AT: 70
+DF: 204
+SP: 132
+Caso #792: Meowth nivel 46
+HP: 290
+AT: 139
+DF: 58
+SP: 122
+Caso #793: Exeggutor nivel 94
+HP: 533
+AT: 542
+DF: 530
+SP: 305
+Caso #794: Flareon nivel 17
+HP: 103
+AT: 18
+DF: 29
+SP: 67
+Caso #795: Hypno nivel 84
+HP: 343
+AT: 121
+DF: 267
+SP: 120
+Caso #796: Growlithe nivel 34
+HP: 154
+AT: 82
+DF: 84
+SP: 180
+Caso #797: Pikachu nivel 1
+HP: 13
+AT: 10
+DF: 6
+SP: 6
+Caso #798: Caterpie nivel 20
+HP: 110
+AT: 47
+DF: 65
+SP: 73
+Caso #799: Sandshrew nivel 5
+HP: 25
+AT: 32
+DF: 30
+SP: 25
+Caso #800: Golem nivel 37
+HP: 182
+AT: 49
+DF: 124
+SP: 208
+Caso #801: Gastly nivel 98
+HP: 661
+AT: 481
+DF: 342
+SP: 459
+Caso #802: Pidgeotto nivel 13
+HP: 89
+AT: 65
+DF: 75
+SP: 45
+Caso #803: Jolteon nivel 6
+HP: 26
+AT: 38
+DF: 14
+SP: 17
+Caso #804: Wigglytuff nivel 42
+HP: 221
+AT: 223
+DF: 98
+SP: 173
+Caso #805: Gloom nivel 76
+HP: 539
+AT: 259
+DF: 123
+SP: 183
+Caso #806: Diglett nivel 7
+HP: 36
+AT: 13
+DF: 27
+SP: 27
+Caso #807: Lickitung nivel 53
+HP: 293
+AT: 109
+DF: 133
+SP: 249
+Caso #808: Rattata nivel 25
+HP: 64
+AT: 50
+DF: 74
+SP: 82
+Caso #809: Machoke nivel 57
+HP: 194
+AT: 329
+DF: 264
+SP: 309
+Caso #810: Articuno nivel 85
+HP: 288
+AT: 362
+DF: 306
+SP: 352
+Caso #811: Blastoise nivel 8
+HP: 41
+AT: 15
+DF: 32
+SP: 33
+Caso #812: Golbat nivel 64
+HP: 338
+AT: 221
+DF: 377
+SP: 365
+Caso #813: Hypno nivel 13
+HP: 84
+AT: 48
+DF: 59
+SP: 71
+Caso #814: Lickitung nivel 41
+HP: 193
+AT: 128
+DF: 59
+SP: 57
+Caso #815: Electrode nivel 70
+HP: 170
+AT: 320
+DF: 165
+SP: 166
+Caso #816: Parasect nivel 72
+HP: 186
+AT: 245
+DF: 405
+SP: 100
+Caso #817: Lickitung nivel 38
+HP: 207
+AT: 205
+DF: 23
+SP: 146
+Caso #818: Charizard nivel 17
+HP: 72
+AT: 100
+DF: 92
+SP: 65
+Caso #819: Poliwrath nivel 63
+HP: 266
+AT: 102
+DF: 209
+SP: 254
+Caso #820: Venonat nivel 64
+HP: 333
+AT: 130
+DF: 170
+SP: 293
+Caso #821: Squirtle nivel 11
+HP: 37
+AT: 42
+DF: 20
+SP: 63
+Caso #822: Tentacruel nivel 37
+HP: 128
+AT: 83
+DF: 238
+SP: 105
+Caso #823: Cubone nivel 98
+HP: 418
+AT: 449
+DF: 426
+SP: 512
+Caso #824: Dragonair nivel 55
+HP: 123
+AT: 281
+DF: 269
+SP: 157
+Caso #825: Poliwag nivel 34
+HP: 192
+AT: 100
+DF: 116
+SP: 123
+Caso #826: Gyarados nivel 92
+HP: 453
+AT: 270
+DF: 503
+SP: 501
+Caso #827: Kangaskhan nivel 32
+HP: 72
+AT: 55
+DF: 151
+SP: 76
+Caso #828: Victreebel nivel 70
+HP: 309
+AT: 375
+DF: 323
+SP: 299
+Caso #829: Weepinbell nivel 10
+HP: 52
+AT: 56
+DF: 19
+SP: 18
+Caso #830: Staryu nivel 68
+HP: 185
+AT: 106
+DF: 125
+SP: 56
+Caso #831: Clefable nivel 79
+HP: 411
+AT: 194
+DF: 246
+SP: 419
+Caso #832: Doduo nivel 37
+HP: 148
+AT: 86
+DF: 128
+SP: 119
+Caso #833: Kabuto nivel 36
+HP: 88
+AT: 82
+DF: 206
+SP: 215
+Caso #834: Dewgong nivel 64
+HP: 197
+AT: 32
+DF: 411
+SP: 76
+Caso #835: Venonat nivel 61
+HP: 356
+AT: 163
+DF: 156
+SP: 244
+Caso #836: Venusaur nivel 30
+HP: 111
+AT: 132
+DF: 123
+SP: 193
+Caso #837: Golduck nivel 36
+HP: 147
+AT: 82
+DF: 67
+SP: 76
+Caso #838: Poliwhirl nivel 16
+HP: 93
+AT: 66
+DF: 105
+SP: 53
+Caso #839: Charizard nivel 27
+HP: 127
+AT: 52
+DF: 48
+SP: 170
+Caso #840: Grimer nivel 28
+HP: 208
+AT: 79
+DF: 150
+SP: 145
+Caso #841: Tentacool nivel 69
+HP: 225
+AT: 326
+DF: 425
+SP: 154
+Caso #842: Flareon nivel 9
+HP: 23
+AT: 27
+DF: 38
+SP: 57
+Caso #843: Chansey nivel 6
+HP: 29
+AT: 16
+DF: 24
+SP: 21
+Caso #844: Starmie nivel 69
+HP: 170
+AT: 207
+DF: 290
+SP: 46
+Caso #845: Wigglytuff nivel 11
+HP: 38
+AT: 21
+DF: 37
+SP: 45
+Caso #846: Rattata nivel 53
+HP: 394
+AT: 170
+DF: 260
+SP: 286
+Caso #847: Psyduck nivel 38
+HP: 246
+AT: 73
+DF: 95
+SP: 110
+Caso #848: Abra nivel 70
+HP: 465
+AT: 218
+DF: 373
+SP: 81
+Caso #849: Exeggcute nivel 71
+HP: 165
+AT: 173
+DF: 115
+SP: 331
+Caso #850: Venonat nivel 8
+HP: 28
+AT: 45
+DF: 25
+SP: 50
+Caso #851: Mewtwo nivel 92
+HP: 475
+AT: 333
+DF: 493
+SP: 570
+Caso #852: Tentacruel nivel 31
+HP: 192
+AT: 73
+DF: 60
+SP: 95
+Caso #853: Diglett nivel 54
+HP: 140
+AT: 91
+DF: 160
+SP: 303
+Caso #854: Golem nivel 67
+HP: 491
+AT: 273
+DF: 148
+SP: 359
+Caso #855: Machoke nivel 34
+HP: 100
+AT: 124
+DF: 179
+SP: 158
+Caso #856: Meowth nivel 65
+HP: 353
+AT: 172
+DF: 383
+SP: 234
+Caso #857: Cloyster nivel 16
+HP: 88
+AT: 83
+DF: 51
+SP: 95
+Caso #858: Jigglypuff nivel 57
+HP: 186
+AT: 98
+DF: 156
+SP: 300
+Caso #859: Magikarp nivel 37
+HP: 121
+AT: 142
+DF: 58
+SP: 43
+Caso #860: Marowak nivel 91
+HP: 467
+AT: 203
+DF: 409
+SP: 175
+Caso #861: Porygon nivel 79
+HP: 505
+AT: 394
+DF: 428
+SP: 151
+Caso #862: Flareon nivel 91
+HP: 316
+AT: 255
+DF: 272
+SP: 270
+Caso #863: Jolteon nivel 59
+HP: 191
+AT: 182
+DF: 76
+SP: 132
+Caso #864: Goldeen nivel 35
+HP: 140
+AT: 120
+DF: 202
+SP: 47
+Caso #865: Diglett nivel 26
+HP: 173
+AT: 142
+DF: 46
+SP: 36
+Caso #866: Voltorb nivel 26
+HP: 73
+AT: 42
+DF: 135
+SP: 49
+Caso #867: Horsea nivel 96
+HP: 622
+AT: 254
+DF: 149
+SP: 414
+Caso #868: Aerodactyl nivel 89
+HP: 351
+AT: 307
+DF: 518
+SP: 250
+Caso #869: Graveler nivel 30
+HP: 169
+AT: 127
+DF: 79
+SP: 109
+Caso #870: Slowbro nivel 8
+HP: 50
+AT: 49
+DF: 34
+SP: 39
+Caso #871: Arbok nivel 21
+HP: 84
+AT: 25
+DF: 115
+SP: 46
+Caso #872: Nidorino nivel 73
+HP: 236
+AT: 418
+DF: 302
+SP: 110
+Caso #873: Rhyhorn nivel 75
+HP: 379
+AT: 283
+DF: 258
+SP: 149
+Caso #874: Golbat nivel 27
+HP: 108
+AT: 146
+DF: 113
+SP: 67
+Caso #875: Persian nivel 10
+HP: 55
+AT: 56
+DF: 51
+SP: 32
+Caso #876: Omastar nivel 32
+HP: 100
+AT: 150
+DF: 107
+SP: 44
+Caso #877: Ditto nivel 75
+HP: 388
+AT: 414
+DF: 203
+SP: 300
+Caso #878: Clefairy nivel 60
+HP: 156
+AT: 67
+DF: 374
+SP: 338
+Caso #879: Hitmonchan nivel 23
+HP: 149
+AT: 98
+DF: 32
+SP: 123
+Caso #880: Gastly nivel 34
+HP: 114
+AT: 62
+DF: 95
+SP: 173
+Caso #881: Aerodactyl nivel 59
+HP: 285
+AT: 103
+DF: 172
+SP: 128
+Caso #882: Shellder nivel 24
+HP: 132
+AT: 85
+DF: 58
+SP: 59
+Caso #883: Kingler nivel 11
+HP: 52
+AT: 34
+DF: 64
+SP: 42
+Caso #884: Golduck nivel 79
+HP: 326
+AT: 259
+DF: 468
+SP: 348
+Caso #885: Raticate nivel 10
+HP: 38
+AT: 25
+DF: 20
+SP: 62
+Caso #886: Pidgey nivel 52
+HP: 356
+AT: 240
+DF: 109
+SP: 128
+Caso #887: Parasect nivel 28
+HP: 74
+AT: 47
+DF: 85
+SP: 128
+Caso #888: Wigglytuff nivel 28
+HP: 136
+AT: 145
+DF: 63
+SP: 169
+Caso #889: Weezing nivel 32
+HP: 137
+AT: 178
+DF: 40
+SP: 102
+Caso #890: Venomoth nivel 50
+HP: 118
+AT: 281
+DF: 226
+SP: 37
+Caso #891: Magikarp nivel 53
+HP: 209
+AT: 204
+DF: 95
+SP: 270
+Caso #892: Dodrio nivel 29
+HP: 113
+AT: 60
+DF: 138
+SP: 95
+Caso #893: Oddish nivel 78
+HP: 239
+AT: 271
+DF: 113
+SP: 193
+Caso #894: Poliwrath nivel 47
+HP: 325
+AT: 53
+DF: 213
+SP: 95
+Caso #895: Marowak nivel 8
+HP: 29
+AT: 35
+DF: 55
+SP: 26
+Caso #896: Psyduck nivel 84
+HP: 557
+AT: 379
+DF: 397
+SP: 260
+Caso #897: Magnemite nivel 67
+HP: 383
+AT: 310
+DF: 280
+SP: 326
+Caso #898: Wigglytuff nivel 53
+HP: 168
+AT: 165
+DF: 259
+SP: 295
+Caso #899: Seadra nivel 54
+HP: 281
+AT: 229
+DF: 78
+SP: 249
+Caso #900: Muk nivel 4
+HP: 26
+AT: 10
+DF: 22
+SP: 28
+Caso #901: Kabuto nivel 16
+HP: 99
+AT: 88
+DF: 72
+SP: 75
+Caso #902: Machamp nivel 84
+HP: 273
+AT: 150
+DF: 195
+SP: 282
+Caso #903: Horsea nivel 70
+HP: 265
+AT: 358
+DF: 255
+SP: 282
+Caso #904: Articuno nivel 62
+HP: 190
+AT: 309
+DF: 256
+SP: 125
+Caso #905: Gyarados nivel 75
+HP: 542
+AT: 132
+DF: 345
+SP: 88
+Caso #906: Hitmonchan nivel 28
+HP: 176
+AT: 28
+DF: 175
+SP: 141
+Caso #907: Charmeleon nivel 21
+HP: 86
+AT: 30
+DF: 90
+SP: 31
+Caso #908: Lapras nivel 84
+HP: 533
+AT: 395
+DF: 488
+SP: 386
+Caso #909: Arcanine nivel 16
+HP: 92
+AT: 32
+DF: 85
+SP: 54
+Caso #910: Raichu nivel 75
+HP: 372
+AT: 275
+DF: 461
+SP: 111
+Caso #911: Beedrill nivel 41
+HP: 191
+AT: 198
+DF: 202
+SP: 248
+Caso #912: Oddish nivel 9
+HP: 57
+AT: 24
+DF: 55
+SP: 19
+Caso #913: Diglett nivel 86
+HP: 491
+AT: 334
+DF: 161
+SP: 358
+Caso #914: Spearow nivel 73
+HP: 194
+AT: 81
+DF: 313
+SP: 323
+Caso #915: Snorlax nivel 100
+HP: 293
+AT: 360
+DF: 282
+SP: 432
+Caso #916: Blastoise nivel 63
+HP: 266
+AT: 115
+DF: 170
+SP: 274
+Caso #917: Mew nivel 10
+HP: 62
+AT: 52
+DF: 21
+SP: 37
+Caso #918: NidoranH nivel 52
+HP: 262
+AT: 224
+DF: 164
+SP: 198
+Caso #919: Weezing nivel 4
+HP: 24
+AT: 23
+DF: 26
+SP: 8
+Caso #920: Venonat nivel 56
+HP: 97
+AT: 77
+DF: 201
+SP: 108
+Caso #921: Mewtwo nivel 58
+HP: 332
+AT: 205
+DF: 197
+SP: 336
+Caso #922: Shellder nivel 26
+HP: 84
+AT: 95
+DF: 44
+SP: 26
+Caso #923: Kadabra nivel 66
+HP: 424
+AT: 276
+DF: 98
+SP: 151
+Caso #924: Shellder nivel 46
+HP: 171
+AT: 87
+DF: 67
+SP: 218
+Caso #925: Machop nivel 57
+HP: 360
+AT: 315
+DF: 67
+SP: 304
+Caso #926: Tentacruel nivel 87
+HP: 266
+AT: 552
+DF: 184
+SP: 379
+Caso #927: Nidoking nivel 39
+HP: 199
+AT: 241
+DF: 203
+SP: 161
+Caso #928: Rhyhorn nivel 6
+HP: 35
+AT: 39
+DF: 23
+SP: 33
+Caso #929: Tauros nivel 66
+HP: 373
+AT: 355
+DF: 120
+SP: 207
+Caso #930: Kangaskhan nivel 67
+HP: 341
+AT: 321
+DF: 123
+SP: 322
+Caso #931: Venomoth nivel 92
+HP: 306
+AT: 381
+DF: 532
+SP: 187
+Caso #932: Arbok nivel 64
+HP: 407
+AT: 309
+DF: 241
+SP: 280
+Caso #933: Weepinbell nivel 16
+HP: 56
+AT: 56
+DF: 79
+SP: 58
+Caso #934: Venonat nivel 43
+HP: 281
+AT: 169
+DF: 73
+SP: 26
+Caso #935: Sandslash nivel 50
+HP: 122
+AT: 219
+DF: 179
+SP: 150
+Caso #936: Graveler nivel 27
+HP: 128
+AT: 90
+DF: 157
+SP: 93
+Caso #937: Venusaur nivel 86
+HP: 479
+AT: 258
+DF: 183
+SP: 279
+Caso #938: Diglett nivel 36
+HP: 103
+AT: 64
+DF: 66
+SP: 77
+Caso #939: Exeggutor nivel 86
+HP: 475
+AT: 126
+DF: 216
+SP: 344
+Caso #940: Golduck nivel 84
+HP: 235
+AT: 171
+DF: 338
+SP: 476
+Caso #941: Voltorb nivel 28
+HP: 196
+AT: 165
+DF: 27
+SP: 21
+Caso #942: Cloyster nivel 61
+HP: 325
+AT: 325
+DF: 327
+SP: 187
+Caso #943: Omanyte nivel 7
+HP: 42
+AT: 38
+DF: 15
+SP: 22
+Caso #944: Kakuna nivel 10
+HP: 39
+AT: 56
+DF: 40
+SP: 36
+Caso #945: Venonat nivel 48
+HP: 126
+AT: 177
+DF: 172
+SP: 250
+Caso #946: Articuno nivel 30
+HP: 124
+AT: 192
+DF: 122
+SP: 61
+Caso #947: Caterpie nivel 87
+HP: 519
+AT: 266
+DF: 129
+SP: 429
+Caso #948: Staryu nivel 31
+HP: 119
+AT: 145
+DF: 140
+SP: 172
+Caso #949: NidoranM nivel 65
+HP: 343
+AT: 149
+DF: 76
+SP: 408
+Caso #950: Clefairy nivel 20
+HP: 104
+AT: 114
+DF: 19
+SP: 81
+Caso #951: Dodrio nivel 84
+HP: 368
+AT: 157
+DF: 231
+SP: 448
+Caso #952: Diglett nivel 74
+HP: 342
+AT: 193
+DF: 180
+SP: 440
+Caso #953: Hitmonchan nivel 50
+HP: 334
+AT: 223
+DF: 295
+SP: 222
+Caso #954: Ditto nivel 40
+HP: 228
+AT: 127
+DF: 111
+SP: 248
+Caso #955: Kakuna nivel 40
+HP: 223
+AT: 198
+DF: 233
+SP: 149
+Caso #956: Tentacruel nivel 82
+HP: 452
+AT: 180
+DF: 492
+SP: 451
+Caso #957: Gengar nivel 55
+HP: 381
+AT: 239
+DF: 233
+SP: 71
+Caso #958: Arbok nivel 95
+HP: 388
+AT: 176
+DF: 376
+SP: 478
+Caso #959: Cubone nivel 39
+HP: 237
+AT: 169
+DF: 244
+SP: 72
+Caso #960: Marowak nivel 87
+HP: 196
+AT: 288
+DF: 144
+SP: 313
+Caso #961: Grimer nivel 63
+HP: 412
+AT: 224
+DF: 249
+SP: 248
+Caso #962: Clefable nivel 64
+HP: 229
+AT: 348
+DF: 355
+SP: 81
+Caso #963: Nidorino nivel 56
+HP: 259
+AT: 304
+DF: 108
+SP: 207
+Caso #964: Pidgeot nivel 97
+HP: 278
+AT: 519
+DF: 349
+SP: 224
+Caso #965: Dewgong nivel 27
+HP: 110
+AT: 176
+DF: 144
+SP: 36
+Caso #966: Omastar nivel 35
+HP: 104
+AT: 51
+DF: 142
+SP: 139
+Caso #967: Golbat nivel 100
+HP: 628
+AT: 358
+DF: 482
+SP: 393
+Caso #968: Pidgey nivel 96
+HP: 269
+AT: 76
+DF: 307
+SP: 550
+Caso #969: Nidoqueen nivel 39
+HP: 142
+AT: 161
+DF: 248
+SP: 162
+Caso #970: Nidorino nivel 95
+HP: 594
+AT: 148
+DF: 454
+SP: 351
+Caso #971: Blastoise nivel 54
+HP: 201
+AT: 320
+DF: 88
+SP: 183
+Caso #972: Gastly nivel 63
+HP: 330
+AT: 300
+DF: 322
+SP: 409
+Caso #973: Butterfree nivel 54
+HP: 308
+AT: 133
+DF: 146
+SP: 94
+Caso #974: Lapras nivel 35
+HP: 201
+AT: 165
+DF: 165
+SP: 181
+Caso #975: NidoranM nivel 59
+HP: 166
+AT: 329
+DF: 72
+SP: 217
+Caso #976: Tangela nivel 95
+HP: 568
+AT: 242
+DF: 260
+SP: 586
+Caso #977: Slowbro nivel 98
+HP: 224
+AT: 497
+DF: 602
+SP: 443
+Caso #978: Ninetales nivel 17
+HP: 47
+AT: 41
+DF: 27
+SP: 66
+Caso #979: Doduo nivel 7
+HP: 43
+AT: 17
+DF: 37
+SP: 16
+Caso #980: Jynx nivel 92
+HP: 509
+AT: 331
+DF: 505
+SP: 415
+Caso #981: Arbok nivel 42
+HP: 132
+AT: 117
+DF: 124
+SP: 60
+Caso #982: Mr.Mime nivel 45
+HP: 311
+AT: 105
+DF: 172
+SP: 66
+Caso #983: Onix nivel 66
+HP: 313
+AT: 388
+DF: 228
+SP: 352
+Caso #984: Paras nivel 12
+HP: 96
+AT: 79
+DF: 58
+SP: 63
+Caso #985: Magmar nivel 42
+HP: 192
+AT: 256
+DF: 118
+SP: 223
+Caso #986: Persian nivel 99
+HP: 642
+AT: 88
+DF: 268
+SP: 563
+Caso #987: Kangaskhan nivel 23
+HP: 126
+AT: 38
+DF: 120
+SP: 96
+Caso #988: Persian nivel 97
+HP: 695
+AT: 382
+DF: 270
+SP: 307
+Caso #989: Growlithe nivel 14
+HP: 97
+AT: 42
+DF: 31
+SP: 64
+Caso #990: Nidorino nivel 21
+HP: 125
+AT: 102
+DF: 99
+SP: 51
+Caso #991: Krabby nivel 11
+HP: 80
+AT: 41
+DF: 22
+SP: 21
+Caso #992: Porygon nivel 78
+HP: 466
+AT: 437
+DF: 40
+SP: 238
+Caso #993: Jynx nivel 18
+HP: 120
+AT: 104
+DF: 26
+SP: 92
+Caso #994: Dugtrio nivel 6
+HP: 43
+AT: 34
+DF: 38
+SP: 9
+Caso #995: Gloom nivel 38
+HP: 125
+AT: 183
+DF: 40
+SP: 185
+Caso #996: Drowzee nivel 93
+HP: 452
+AT: 229
+DF: 224
+SP: 347
+Caso #997: Metapod nivel 25
+HP: 163
+AT: 104
+DF: 150
+SP: 128
+Caso #998: Kabutops nivel 83
+HP: 335
+AT: 84
+DF: 443
+SP: 424
+Caso #999: Dewgong nivel 43
+HP: 190
+AT: 181
+DF: 278
+SP: 86
+Caso #1000: Arcanine nivel 7
+HP: 49
+AT: 40
+DF: 36
+SP: 41

@@ -7,64 +7,56 @@ using namespace std;
 vector<int> ram;
 vector<int> registers;
 
-int getNthDigit(int number, int ndigit)
-{
-    return (48 + ((int)(number / pow(10, ndigit)) % 10)) - '0';
-}
-
 int processRegisterMovements()
 {
     int cont = 0;
     for (int i = 0; i < ram.size(); i++)
     {
-        int x = getNthDigit(ram[i], 2);
-        int y = getNthDigit(ram[i], 1);
-        int z = getNthDigit(ram[i], 0);
+        int code = ram[i];
+        int action = code / 100;
+        int xAndY = code % 100;
+        int x = xAndY / 10;
+        int y = xAndY % 10;
 
         cont++;
-
-        switch (x)
+        switch (action)
         {
         case 0:
             if (registers[y] != 0)
             {
-                i = registers[y] - 1;
+                i = registers[x] - 1;
             }
             break;
         case 1:
             return cont;
             break;
         case 2:
-            registers[y] = z;
-            registers[y] %= 1000;
+            registers[x] = y;
             break;
         case 3:
-            registers[y] += z;
-            registers[y] %= 1000;
+            registers[x] += y;
+            registers[x] %= 1000;
             break;
         case 4:
-            registers[y] *= z;
-            registers[y] %= 1000;
+            registers[x] *= y;
+            registers[x] %= 1000;
             break;
         case 5:
-            registers[y] = registers[z];
-            registers[y] %= 1000;
+            registers[x] = registers[y];
             break;
         case 6:
-            registers[y] += registers[z];
-            registers[y] %= 1000;
+            registers[x] += registers[y];
+            registers[x] %= 1000;
             break;
         case 7:
-            registers[y] *= registers[z];
-            registers[y] %= 1000;
+            registers[x] *= registers[y];
+            registers[x] %= 1000;
             break;
         case 8:
-            registers[y] = ram[registers[z]];
-            registers[y] %= 1000;
+            registers[x] = ram[registers[y]];
             break;
         case 9:
-            ram[registers[z]] = registers[y];
-            ram[registers[z]] %= 1000;
+            ram[registers[y]] = registers[x];
             break;
         }
     }
@@ -73,24 +65,31 @@ int processRegisterMovements()
 
 int main()
 {
+    string linea;
     int ncasos;
-    cin >> ncasos;
+    getline(cin, linea);
+    ncasos = stoi(linea);
+    getline(cin, linea);
     while (ncasos--)
     {
-
         ram.assign(1000, 0);
         registers.assign(10, 0);
 
-        string linea;
         int i = 0;
-        while (cin >> linea)
+        while (getline(cin, linea))
         {
+            if (linea.length() == 0)
+            {
+                break;
+            }
             ram[i] = stoi(linea);
             i++;
         }
-        cout << processRegisterMovements() << endl;
 
-        if (ncasos != 1)
+        int a = processRegisterMovements();
+        cout << a << endl;
+
+        if (ncasos != 0)
         {
             cout << endl;
         }
